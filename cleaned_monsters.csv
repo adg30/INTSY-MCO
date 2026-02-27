@@ -1,739 +1,739 @@
 name,cr,type,size,ac,hp,speed,legendary,str,dex,con,int,wis,cha
-aarakocra,0.25,humanoid (aarakocra),2,12,13,fly,0,10.0,14.0,10.0,11.0,12.0,11.0
-abjurer,9.0,humanoid (any race),2,12,84,None,0,,,,,,
-aboleth,10.0,aberration,3,17,135,swim,Legendary,21.0,9.0,15.0,18.0,15.0,18.0
-abominable-yeti,9.0,monstrosity,4,15,137,None,0,24.0,10.0,22.0,9.0,13.0,9.0
-acererak,23.0,undead,2,21,285,None,0,13.0,16.0,20.0,27.0,21.0,20.0
-acolyte,0.25,humanoid (any race),2,10,9,None,0,10.0,10.0,10.0,10.0,14.0,11.0
-adult-black-dragon,14.0,dragon,4,19,195,"fly, swim",Legendary,23.0,14.0,21.0,14.0,13.0,17.0
-adult-blue-dracolich,17.0,undead,4,19,225,fly,Legendary,25.0,10.0,23.0,16.0,15.0,19.0
-adult-blue-dragon,16.0,dragon,4,19,225,fly,Legendary,25.0,10.0,23.0,16.0,15.0,19.0
-adult-brass-dragon,13.0,dragon,4,18,172,fly,Legendary,23.0,10.0,21.0,14.0,13.0,17.0
-adult-bronze-dragon,15.0,dragon,4,19,212,"fly, swim",Legendary,25.0,10.0,23.0,16.0,15.0,19.0
-adult-copper-dragon,14.0,dragon,4,18,184,fly,Legendary,23.0,12.0,21.0,18.0,15.0,17.0
-adult-gold-dragon,17.0,dragon,4,19,256,"fly, swim",Legendary,27.0,14.0,25.0,16.0,15.0,24.0
-adult-green-dragon,15.0,dragon,4,19,207,"fly, swim",Legendary,23.0,12.0,21.0,18.0,15.0,17.0
-adult-kruthik,2.0,monstrosity,2,18,39,None,0,15.0,16.0,15.0,7.0,12.0,8.0
-adult-oblex,5.0,ooze,2,14,75,None,0,8.0,19.0,16.0,19.0,12.0,15.0
-adult-red-dragon,17.0,dragon,4,19,256,fly,Legendary,27.0,10.0,25.0,16.0,13.0,21.0
-adult-silver-dragon,16.0,dragon,4,19,243,fly,Legendary,27.0,10.0,25.0,16.0,13.0,21.0
-adult-white-dragon,13.0,dragon,4,18,200,"fly, swim",Legendary,22.0,10.0,22.0,8.0,12.0,12.0
-air-elemental,5.0,elemental,3,15,90,fly,0,14.0,20.0,14.0,6.0,10.0,6.0
-air-elemental-myrmidon,7.0,elemental,2,18,117,fly,0,18.0,14.0,14.0,9.0,10.0,10.0
-albino-dwarf-warrior,0.25,humanoid (dwarf),2,13,30,None,0,,,,,,
-aldani,1.0,monstrosity,2,0,0,swim,0,,,,,,
-alhoon,10.0,undead,2,15,120,None,0,11.0,12.0,16.0,19.0,17.0,17.0
-alkilith,11.0,fiend (demon),2,17,157,None,0,12.0,19.0,22.0,6.0,11.0,7.0
-allip,5.0,undead,2,13,40,fly,0,6.0,17.0,10.0,17.0,15.0,16.0
-allosaurus,2.0,beast,3,13,51,None,0,19.0,13.0,17.0,2.0,12.0,5.0
-ambush-drake,0.5,dragon,2,13,22,None,0,,,,,,
-amnizu,18.0,fiend (devil),2,21,202,fly,0,11.0,13.0,16.0,20.0,12.0,18.0
-ancient-black-dragon,21.0,dragon,5,22,367,"fly, swim",Legendary,27.0,14.0,25.0,16.0,15.0,19.0
-ancient-blue-dragon,23.0,dragon,5,22,481,fly,Legendary,29.0,10.0,27.0,18.0,17.0,21.0
-ancient-brass-dragon,20.0,dragon,5,20,297,fly,Legendary,27.0,10.0,25.0,16.0,15.0,19.0
-ancient-bronze-dragon,22.0,dragon,5,22,444,"fly, swim",Legendary,29.0,10.0,27.0,18.0,17.0,21.0
-ancient-copper-dragon,21.0,dragon,5,21,350,fly,Legendary,27.0,12.0,25.0,20.0,17.0,19.0
-ancient-gold-dragon,24.0,dragon,5,22,546,"fly, swim",Legendary,30.0,14.0,29.0,18.0,17.0,28.0
-ancient-green-dragon,22.0,dragon,5,21,385,"fly, swim",Legendary,27.0,12.0,25.0,20.0,17.0,19.0
-ancient-red-dragon,24.0,dragon,5,22,546,fly,Legendary,30.0,10.0,29.0,18.0,15.0,23.0
-ancient-shadow,1.0,undead,2,13,32,None,0,6.0,16.0,14.0,6.0,10.0,8.0
-ancient-silver-dragon,23.0,dragon,5,22,487,fly,Legendary,30.0,10.0,29.0,18.0,15.0,23.0
-ancient-white-dragon,20.0,dragon,5,20,333,"fly, swim",Legendary,26.0,10.0,26.0,10.0,13.0,14.0
-androsphinx,17.0,monstrosity,3,17,199,fly,Legendary,22.0,10.0,20.0,16.0,18.0,23.0
-animated-armor,1.0,construct,2,18,33,None,0,14.0,11.0,13.0,1.0,3.0,1.0
-ankheg,2.0,monstrosity,3,14,39,None,0,17.0,11.0,13.0,1.0,13.0,6.0
-ankylosaurus,3.0,beast,4,15,68,None,0,19.0,11.0,15.0,2.0,12.0,5.0
-annis-hag,6.0,fey,3,17,75,None,0,21.0,12.0,14.0,13.0,14.0,15.0
-ape,0.5,beast,2,12,19,None,0,16.0,14.0,14.0,6.0,12.0,7.0
-apprentice-wizard,0.25,humanoid (any race),2,10,9,None,0,10.0,10.0,10.0,14.0,10.0,11.0
-arcanaloth,12.0,fiend (yugoloth),2,17,104,fly,0,17.0,12.0,14.0,20.0,16.0,17.0
-archdruid,12.0,humanoid (any race),2,16,132,None,0,14.0,14.0,12.0,12.0,20.0,11.0
-archer,3.0,humanoid (any race),2,16,75,None,0,11.0,18.0,16.0,11.0,13.0,10.0
-archmage,12.0,humanoid (any race),2,12,99,None,0,10.0,14.0,12.0,20.0,15.0,16.0
-armanite,7.0,fiend (demon),3,16,84,None,0,21.0,18.0,21.0,8.0,12.0,13.0
-assassin,8.0,humanoid (any race),2,15,78,None,0,11.0,16.0,14.0,13.0,11.0,10.0
-assassin-vine,3.0,plant,3,13,85,None,0,18.0,10.0,16.0,1.0,10.0,1.0
-astral-dreadnought,21.0,monstrosity (titan),5,20,297,fly,Legendary,28.0,7.0,25.0,5.0,14.0,18.0
-atropal,13.0,undead (titan),4,7,225,fly,0,,,,,,
-aurochs,2.0,beast,3,11,38,None,0,20.0,10.0,19.0,2.0,12.0,5.0
-autumn-eladrin,10.0,fey (elf),2,19,127,None,0,12.0,16.0,16.0,14.0,17.0,18.0
-awakened-shrub,0.0,plant,1,9,10,None,0,3.0,8.0,11.0,10.0,10.0,6.0
-awakened-tree,2.0,plant,4,13,59,None,0,19.0,6.0,15.0,10.0,10.0,7.0
-axe-beak,0.25,beast,3,11,19,None,0,14.0,12.0,12.0,2.0,10.0,5.0
-azer,2.0,elemental,2,17,39,None,0,17.0,12.0,15.0,12.0,13.0,10.0
-babau,4.0,fiend (demon),2,16,82,None,0,19.0,16.0,16.0,11.0,12.0,13.0
-baboon,0.0,beast,1,12,3,None,0,8.0,14.0,11.0,4.0,12.0,6.0
-badger,0.0,beast,0,10,3,None,0,4.0,11.0,12.0,2.0,12.0,5.0
-bael,19.0,fiend (devil),3,18,189,None,0,24.0,17.0,20.0,21.0,24.0,24.0
-balhannoth,11.0,aberration,3,17,114,None,0,17.0,8.0,18.0,6.0,15.0,8.0
-balor,19.0,fiend (demon),4,19,262,fly,0,26.0,15.0,22.0,20.0,16.0,22.0
-banderhobb,5.0,monstrosity,3,15,84,None,0,20.0,12.0,20.0,11.0,14.0,8.0
-bandit,0.125,humanoid (any race),2,12,11,None,0,11.0,12.0,12.0,10.0,10.0,10.0
-bandit-captain,2.0,humanoid (any race),2,15,65,None,0,15.0,16.0,14.0,14.0,11.0,14.0
-banshee,4.0,undead,2,12,58,fly,0,1.0,14.0,10.0,12.0,11.0,17.0
-baphomet,23.0,fiend (demon),4,22,275,None,0,30.0,14.0,26.0,18.0,24.0,16.0
-barbed-devil,5.0,fiend (devil),2,15,110,None,0,16.0,17.0,18.0,12.0,14.0,14.0
-bard,2.0,humanoid (any race),2,15,44,None,0,11.0,14.0,12.0,10.0,13.0,14.0
-barghest,4.0,fiend (shapechanger),3,17,90,None,0,19.0,15.0,14.0,13.0,12.0,14.0
-barlgura,5.0,fiend (demon),3,15,68,None,0,18.0,15.0,16.0,7.0,14.0,9.0
-basilisk,3.0,monstrosity,2,15,52,None,0,16.0,8.0,15.0,2.0,8.0,7.0
-bat,0.0,beast,0,12,1,fly,0,2.0,15.0,8.0,2.0,12.0,4.0
-bearded-devil,3.0,fiend (devil),2,13,52,None,0,16.0,15.0,15.0,9.0,11.0,11.0
-behir,11.0,monstrosity,4,17,168,None,0,23.0,16.0,18.0,7.0,14.0,12.0
-beholder,13.0,aberration,3,18,180,fly,Legendary,10.0,14.0,18.0,17.0,15.0,17.0
-beholder-zombie,5.0,undead,3,15,93,fly,0,10.0,8.0,16.0,3.0,8.0,5.0
-belaphoss,20.0,fiend (demon),4,19,262,fly,0,26.0,15.0,22.0,20.0,16.0,22.0
-berbalang,2.0,aberration,2,14,38,fly,0,9.0,16.0,9.0,17.0,11.0,10.0
-berserker,2.0,humanoid (any race),2,13,67,None,0,16.0,12.0,17.0,9.0,11.0,9.0
-bheur-hag,7.0,fey,2,17,91,None,0,13.0,16.0,14.0,12.0,13.0,16.0
-black-abishai,7.0,fiend (devil),2,15,58,fly,0,14.0,17.0,14.0,13.0,16.0,11.0
-black-bear,0.5,beast,2,11,19,None,0,15.0,10.0,14.0,2.0,12.0,7.0
-black-dragon-wyrmling,2.0,dragon,2,17,33,"fly, swim",0,15.0,14.0,13.0,10.0,11.0,13.0
-black-gauntlet-of-bane,6.0,humanoid (human),2,16,51,None,0,18.0,11.0,18.0,12.0,15.0,18.0
-black-pudding,4.0,ooze,3,7,85,None,0,16.0,5.0,16.0,1.0,6.0,1.0
-blackguard,8.0,humanoid (any race),2,18,153,None,0,18.0,11.0,18.0,11.0,14.0,15.0
-blink-dog,0.25,fey,2,13,22,None,0,12.0,17.0,12.0,10.0,13.0,11.0
-blood-hawk,0.125,beast,1,12,7,fly,0,6.0,14.0,10.0,3.0,14.0,5.0
-blue-abishai,17.0,fiend (devil),2,19,195,fly,0,15.0,14.0,17.0,22.0,23.0,18.0
-blue-dragon-wyrmling,3.0,dragon,2,17,52,fly,0,17.0,10.0,15.0,12.0,11.0,15.0
-blue-slaad,7.0,aberration,3,15,123,None,0,20.0,15.0,18.0,7.0,7.0,9.0
-boar,0.25,beast,2,11,11,None,0,13.0,11.0,12.0,2.0,9.0,5.0
-bodak,6.0,undead,2,15,58,None,0,15.0,16.0,15.0,7.0,12.0,12.0
-boggle,0.125,fey,1,14,18,None,0,8.0,18.0,13.0,6.0,12.0,7.0
-bone-devil,9.0,fiend (devil),3,19,142,fly,0,18.0,16.0,18.0,13.0,14.0,16.0
-bone-naga,4.0,undead,3,15,58,None,0,15.0,16.0,12.0,15.0,15.0,16.0
-boneclaw,12.0,undead,3,16,127,None,0,19.0,16.0,15.0,13.0,15.0,9.0
-brass-dragon-wyrmling,1.0,dragon,2,16,16,fly,0,15.0,10.0,13.0,10.0,11.0,13.0
-brontosaurus,5.0,beast,5,15,121,None,0,,,,,,
-bronze-dragon-wyrmling,2.0,dragon,2,17,32,"fly, swim",0,17.0,10.0,15.0,12.0,11.0,15.0
-brown-bear,1.0,beast,3,11,34,None,0,19.0,10.0,16.0,2.0,13.0,7.0
-bugbear,1.0,humanoid (goblinoid),2,16,27,None,0,15.0,14.0,13.0,8.0,11.0,9.0
-bugbear-chief,3.0,humanoid (goblinoid),2,17,65,None,0,17.0,14.0,14.0,11.0,12.0,11.0
-bulette,5.0,monstrosity,3,17,94,None,0,19.0,11.0,21.0,2.0,10.0,5.0
-bulezau,3.0,fiend (demon),2,14,52,None,0,15.0,14.0,17.0,8.0,9.0,6.0
-bullywug,0.25,humanoid (bullywug),2,15,11,swim,0,12.0,12.0,13.0,7.0,10.0,7.0
-cadaver-collector,14.0,construct,3,17,189,None,0,21.0,14.0,20.0,5.0,11.0,8.0
-cambion,5.0,fiend,2,19,82,fly,0,18.0,18.0,16.0,14.0,12.0,16.0
-camel,0.125,beast,3,9,15,None,0,16.0,8.0,14.0,2.0,8.0,5.0
-canoloth,8.0,fiend (yugoloth),2,16,120,None,0,18.0,10.0,17.0,5.0,17.0,12.0
-carrion-crawler,2.0,monstrosity,3,13,51,None,0,14.0,13.0,16.0,1.0,12.0,5.0
-cat,0.0,beast,0,12,2,None,0,3.0,15.0,10.0,3.0,12.0,7.0
-catoblepas,5.0,monstrosity,3,14,84,None,0,19.0,12.0,21.0,3.0,14.0,8.0
-cave-fisher,3.0,monstrosity,2,16,58,None,0,16.0,13.0,14.0,3.0,10.0,3.0
-centaur,2.0,monstrosity,3,12,45,None,0,18.0,14.0,14.0,9.0,13.0,11.0
-chain-devil,8.0,fiend (devil),2,16,85,None,0,18.0,15.0,18.0,11.0,12.0,14.0
-champion,9.0,humanoid (any race),2,18,143,None,0,20.0,15.0,14.0,10.0,14.0,12.0
-chasme,6.0,fiend (demon),3,15,84,fly,0,15.0,15.0,12.0,11.0,14.0,10.0
-chimera,6.0,monstrosity,3,14,114,fly,0,19.0,11.0,19.0,3.0,14.0,10.0
-chitine,0.5,monstrosity,1,14,18,None,0,10.0,14.0,12.0,10.0,10.0,7.0
-choker,1.0,aberration,1,16,13,None,0,16.0,14.0,13.0,4.0,12.0,7.0
-choldrith,3.0,monstrosity,2,15,66,None,0,12.0,16.0,12.0,11.0,14.0,10.0
-chuul,4.0,aberration,3,16,93,swim,0,19.0,10.0,16.0,5.0,11.0,5.0
-clay-golem,9.0,construct,3,14,133,None,0,20.0,9.0,18.0,3.0,8.0,1.0
-cloaker,8.0,aberration,3,14,78,fly,0,17.0,15.0,12.0,13.0,12.0,14.0
-cloud-giant,9.0,giant,4,14,200,None,0,27.0,10.0,22.0,12.0,16.0,16.0
-cloud-giant-smiling-one,11.0,giant (cloud giant),4,15,262,None,0,26.0,12.0,22.0,15.0,16.0,17.0
-cockatrice,0.5,monstrosity,1,11,27,fly,0,6.0,12.0,12.0,2.0,13.0,5.0
-commoner,0.0,humanoid (any race),2,10,4,None,0,10.0,10.0,10.0,10.0,10.0,10.0
-conjurer,6.0,humanoid (any race),2,12,40,None,0,,,,,,
-constrictor-snake,0.25,beast,3,12,13,swim,0,15.0,14.0,12.0,1.0,10.0,3.0
-copper-dragon-wyrmling,1.0,dragon,2,16,22,fly,0,15.0,12.0,13.0,14.0,11.0,13.0
-corpse-flower,8.0,plant,3,12,127,None,0,14.0,14.0,16.0,7.0,15.0,3.0
-couatl,4.0,celestial,2,19,97,fly,0,16.0,20.0,17.0,18.0,20.0,18.0
-cow,0.25,beast,3,10,15,None,0,18.0,10.0,14.0,2.0,10.0,4.0
-crab,0.0,beast,0,11,2,swim,0,2.0,11.0,10.0,1.0,8.0,2.0
-crag-cat,1.0,beast,3,13,34,None,0,,,,,,
-cranium-rat,0.0,beast,0,12,2,None,0,2.0,14.0,10.0,4.0,11.0,8.0
-crawling-claw,0.0,undead,0,12,2,None,0,13.0,14.0,11.0,5.0,10.0,4.0
-crocodile,0.5,beast,3,12,19,swim,0,15.0,10.0,13.0,2.0,10.0,5.0
-crokek-toeck,14.0,fiend (demon),5,15,297,swim,0,28.0,10.0,24.0,6.0,10.0,13.0
-cult-fanatic,2.0,humanoid (any race),2,13,33,None,0,11.0,14.0,12.0,10.0,13.0,14.0
-cultist,0.125,humanoid (any race),2,12,9,None,0,11.0,12.0,10.0,10.0,11.0,10.0
-cyclops,6.0,giant,4,14,138,None,0,22.0,11.0,20.0,8.0,6.0,10.0
-dao,11.0,elemental,3,18,187,fly,0,23.0,12.0,24.0,12.0,13.0,14.0
-darkling,0.5,fey,1,14,13,None,0,9.0,16.0,12.0,10.0,12.0,10.0
-darkling-elder,2.0,fey,2,15,27,None,0,13.0,17.0,12.0,10.0,14.0,13.0
-darkmantle,0.5,monstrosity,1,11,22,fly,0,16.0,12.0,13.0,2.0,10.0,5.0
-death-dog,1.0,monstrosity,2,12,39,None,0,15.0,14.0,14.0,3.0,13.0,6.0
-death-kiss,10.0,aberration,3,16,161,fly,0,18.0,14.0,18.0,10.0,12.0,10.0
-death-knight,17.0,undead,2,20,180,None,0,20.0,11.0,20.0,12.0,16.0,18.0
-death-slaad,10.0,aberration (shapechanger),2,18,170,None,0,20.0,15.0,19.0,15.0,10.0,16.0
-death-tyrant,14.0,undead,3,19,187,fly,Legendary,10.0,14.0,14.0,19.0,15.0,19.0
-death-s-head-of-bhaal,5.0,humanoid (human),2,15,76,None,0,20.0,20.0,20.0,14.0,13.0,16.0
-deathlock,4.0,undead,2,12,36,None,0,11.0,15.0,10.0,14.0,12.0,16.0
-deathlock-mastermind,8.0,undead,2,13,110,None,0,11.0,16.0,12.0,15.0,12.0,17.0
-deathlock-wight,3.0,undead,2,12,37,None,0,11.0,14.0,16.0,12.0,14.0,16.0
-deep-gnome-svirfneblin,0.5,humanoid (gnome),1,15,16,None,0,15.0,14.0,14.0,12.0,10.0,9.0
-deep-scion,3.0,humanoid (shapechanger),2,11,67,swim,0,18.0,13.0,16.0,10.0,12.0,14.0
-deer,0.0,beast,2,13,4,None,0,11.0,16.0,11.0,2.0,14.0,5.0
-deinonychus,1.0,beast,2,13,26,None,0,,,,,,
-demilich,18.0,undead,0,20,80,fly,Legendary,1.0,20.0,10.0,20.0,17.0,20.0
-demogorgon,26.0,fiend (demon),4,22,406,swim,0,29.0,14.0,26.0,20.0,17.0,25.0
-derro,0.25,humanoid (derro),1,13,13,None,0,10.0,14.0,12.0,11.0,5.0,9.0
-derro-savant,3.0,humanoid (derro),1,13,36,None,0,9.0,14.0,12.0,11.0,5.0,14.0
-deva,10.0,celestial,2,17,136,fly,0,18.0,18.0,18.0,17.0,20.0,20.0
-devilroot,7.0,plant,2,15,105,None,0,17.0,11.0,17.0,12.0,14.0,14.0
-devourer,13.0,fiend,3,16,178,None,0,20.0,12.0,20.0,13.0,10.0,16.0
-dhergoloth,7.0,fiend (yugoloth),2,15,119,None,0,17.0,10.0,19.0,7.0,10.0,9.0
-dimetrodon,0.25,beast,2,12,19,swim,0,,,,,,
-dire-troll,13.0,giant,4,15,172,None,0,22.0,15.0,21.0,9.0,11.0,5.0
-dire-wolf,1.0,beast,3,14,37,None,0,17.0,15.0,15.0,3.0,12.0,7.0
-displacer-beast,3.0,monstrosity,3,13,85,None,0,18.0,15.0,16.0,6.0,12.0,8.0
-diviner,8.0,humanoid (any race),2,12,67,None,0,,,,,,
-djinni,11.0,elemental,3,17,161,fly,0,21.0,15.0,22.0,15.0,16.0,20.0
-dolphin,0.125,beast,2,12,11,swim,0,14.0,13.0,13.0,6.0,12.0,7.0
-doppelganger,3.0,monstrosity (shapechanger),2,14,52,None,0,11.0,18.0,14.0,11.0,12.0,14.0
-draegloth,7.0,fiend (demon),3,15,123,None,0,20.0,15.0,18.0,13.0,11.0,11.0
-draft-horse,0.25,beast,3,10,19,None,0,18.0,10.0,12.0,2.0,11.0,7.0
-dragon-turtle,17.0,dragon,5,20,341,swim,0,25.0,10.0,20.0,10.0,12.0,12.0
-dragonbait,5.0,humanoid (saurial),2,17,120,None,0,,,,,,
-dretch,0.25,fiend (demon),1,11,18,None,0,11.0,11.0,12.0,5.0,8.0,3.0
-drider,6.0,monstrosity,3,19,123,None,0,16.0,16.0,18.0,13.0,14.0,12.0
-drow,0.25,humanoid (elf),2,15,13,None,0,10.0,14.0,10.0,11.0,11.0,12.0
-drow-arachnomancer,13.0,humanoid (elf),2,15,162,None,0,11.0,17.0,14.0,19.0,14.0,16.0
-drow-elite-warrior,5.0,humanoid (elf),2,18,71,None,0,13.0,18.0,14.0,11.0,13.0,12.0
-drow-favored-consort,18.0,humanoid (elf),2,15,225,None,0,15.0,20.0,16.0,18.0,15.0,18.0
-drow-house-captain,9.0,humanoid (elf),2,16,162,None,0,14.0,19.0,15.0,12.0,14.0,13.0
-drow-inquisitor,14.0,humanoid (elf),2,16,143,None,0,11.0,15.0,14.0,16.0,21.0,20.0
-drow-mage,7.0,humanoid (elf),2,12,45,None,0,9.0,14.0,10.0,17.0,13.0,12.0
-drow-matron-mother,20.0,humanoid (elf),2,17,262,None,0,12.0,18.0,16.0,17.0,21.0,22.0
-drow-priestress-of-lolth,8.0,humanoid (elf),2,16,71,None,0,,,,,,
-drow-shadowblade,11.0,humanoid (elf),2,17,150,None,0,14.0,21.0,16.0,12.0,14.0,13.0
-druid,2.0,humanoid (any race),2,11,27,None,0,10.0,12.0,13.0,12.0,15.0,11.0
-dryad,1.0,fey,2,11,22,None,0,10.0,12.0,11.0,14.0,15.0,18.0
-duergar,1.0,humanoid (dwarf),2,16,26,None,0,14.0,11.0,14.0,11.0,10.0,9.0
-duergar-despot,12.0,humanoid (dwarf),2,21,119,None,0,20.0,5.0,19.0,15.0,14.0,13.0
-duergar-kavalrachni,2.0,humanoid (dwarf),2,16,26,None,0,14.0,11.0,14.0,11.0,10.0,9.0
-duergar-mind-master,2.0,humanoid (dwarf),2,14,39,None,0,11.0,17.0,14.0,15.0,10.0,12.0
-duergar-soulblade,1.0,humanoid (dwarf),2,14,18,None,0,11.0,16.0,10.0,11.0,10.0,12.0
-duergar-stone-guard,2.0,humanoid (dwarf),2,18,39,None,0,18.0,11.0,14.0,11.0,10.0,9.0
-duergar-warlord,6.0,humanoid (dwarf),2,20,75,None,0,18.0,11.0,17.0,12.0,12.0,14.0
-duergar-xarrorn,2.0,humanoid (dwarf),2,18,26,None,0,16.0,11.0,14.0,11.0,10.0,9.0
-duodrone,0.25,construct,2,15,11,None,0,11.0,13.0,12.0,6.0,10.0,7.0
-dust-mephit,0.5,elemental,1,12,17,fly,0,5.0,14.0,10.0,9.0,11.0,10.0
-dybbuk,4.0,fiend (demon),2,14,37,fly,0,6.0,19.0,16.0,16.0,15.0,14.0
-eagle,0.0,beast,1,12,3,fly,0,6.0,15.0,10.0,2.0,14.0,7.0
-earth-elemental,5.0,elemental,3,17,126,None,0,20.0,8.0,20.0,5.0,10.0,5.0
-earth-elemental-myrmidon,7.0,elemental,2,18,127,None,0,18.0,10.0,17.0,8.0,10.0,10.0
-eblis,1.0,monstrosity,3,13,26,fly,0,,,,,,
-efreeti,11.0,elemental,3,17,200,fly,0,22.0,12.0,24.0,16.0,15.0,16.0
-eidolon,12.0,undead,2,9,63,fly,0,7.0,8.0,9.0,14.0,19.0,16.0
-elder-brain,14.0,aberration,3,10,210,swim,Legendary,15.0,10.0,20.0,21.0,19.0,24.0
-elder-oblex,10.0,ooze,4,16,115,None,0,15.0,16.0,21.0,22.0,13.0,18.0
-elder-tempest,23.0,elemental,5,19,264,fly,0,23.0,28.0,23.0,2.0,21.0,18.0
-elephant,4.0,beast,4,12,76,None,0,22.0,9.0,17.0,3.0,11.0,6.0
-elk,0.25,beast,3,10,13,None,0,16.0,10.0,12.0,2.0,10.0,6.0
-empyrean,23.0,celestial (titan),4,22,313,"fly, swim",Legendary,30.0,21.0,30.0,21.0,22.0,27.0
-enchanter,5.0,humanoid (any race),2,12,40,None,0,,,,,,
-erinyes,12.0,fiend (devil),2,18,153,fly,0,18.0,16.0,18.0,14.0,14.0,18.0
-ettercap,2.0,monstrosity,2,13,44,None,0,14.0,15.0,13.0,7.0,12.0,8.0
-ettin,4.0,giant,3,12,85,None,0,21.0,8.0,17.0,6.0,10.0,8.0
-evoker,9.0,humanoid (any race),2,12,66,None,0,,,,,,
-faerie-dragon,1.0,dragon,0,15,14,fly,0,3.0,20.0,13.0,14.0,12.0,16.0
-female-steeder,1.0,monstrosity,3,14,30,None,0,15.0,16.0,14.0,2.0,10.0,3.0
-fire-elemental,5.0,elemental,3,13,102,None,0,10.0,17.0,16.0,6.0,10.0,7.0
-fire-elemental-myrmidon,7.0,elemental,2,18,123,None,0,13.0,18.0,15.0,9.0,10.0,10.0
-fire-giant,9.0,giant,4,18,162,None,0,25.0,9.0,23.0,10.0,14.0,13.0
-fire-giant-dreadnought,14.0,giant (fire giant),4,21,187,None,0,27.0,9.0,23.0,8.0,10.0,11.0
-fire-snake,1.0,elemental,2,14,22,None,0,12.0,14.0,11.0,7.0,10.0,8.0
-firenewt-warlock-of-imix,1.0,humanoid (firenewt),2,10,33,None,0,13.0,11.0,12.0,9.0,11.0,14.0
-firenewt-warrior,0.5,humanoid (firenewt),2,16,22,None,0,10.0,13.0,12.0,7.0,11.0,8.0
-fist-of-bane,0.5,humanoid (human),2,18,22,None,0,16.0,11.0,13.0,10.0,12.0,11.0
-flail-snail,3.0,elemental,3,16,52,None,0,17.0,5.0,20.0,3.0,10.0,5.0
-flameskull,4.0,undead,0,13,40,fly,0,1.0,17.0,14.0,16.0,10.0,11.0
-flesh-golem,5.0,construct,2,9,93,None,0,19.0,9.0,18.0,6.0,10.0,5.0
-flind,9.0,humanoid (gnoll),2,16,127,None,0,20.0,10.0,19.0,11.0,13.0,12.0
-flumph,0.125,aberration,1,12,7,fly,0,6.0,15.0,10.0,14.0,14.0,11.0
-flying-snake,0.125,beast,0,14,5,"fly, swim",0,4.0,18.0,11.0,2.0,12.0,5.0
-flying-sword,0.25,construct,1,17,17,fly,0,12.0,15.0,11.0,1.0,5.0,1.0
-fomorian,8.0,giant,4,14,149,None,0,23.0,10.0,20.0,9.0,14.0,6.0
-fraz-urb-luu,23.0,fiend (demon),3,18,337,fly,0,29.0,12.0,25.0,26.0,24.0,26.0
-frog,0.0,beast,0,11,1,swim,0,1.0,13.0,8.0,1.0,8.0,3.0
-froghemoth,10.0,monstrosity,4,14,184,swim,0,23.0,13.0,20.0,2.0,12.0,5.0
-frost-giant,8.0,giant,4,15,138,None,0,23.0,9.0,21.0,9.0,10.0,12.0
-frost-giant-everlasting-one,12.0,giant (frost giant),4,15,189,None,0,25.0,9.0,24.0,9.0,10.0,12.0
-frost-salamander,9.0,elemental,4,17,168,None,0,20.0,12.0,18.0,7.0,11.0,7.0
-galeb-duhr,6.0,elemental,2,16,85,None,0,20.0,14.0,20.0,11.0,12.0,11.0
-gargoyle,2.0,elemental,2,15,52,fly,0,15.0,11.0,16.0,6.0,11.0,7.0
-gas-spore,0.5,plant,3,5,1,fly,0,5.0,1.0,3.0,1.0,1.0,1.0
-gauth,6.0,aberration,2,15,67,fly,0,10.0,14.0,16.0,15.0,15.0,13.0
-gazer,0.5,aberration,0,13,13,fly,0,3.0,17.0,14.0,3.0,10.0,7.0
-gelatinous-cube,2.0,ooze,3,6,84,None,0,14.0,3.0,20.0,1.0,6.0,1.0
-geryon,22.0,fiend (devil),4,19,300,fly,0,29.0,17.0,22.0,19.0,16.0,23.0
-ghast,2.0,undead,2,13,36,None,0,16.0,17.0,10.0,11.0,10.0,8.0
-ghost,4.0,undead,2,11,45,fly,0,7.0,13.0,10.0,10.0,12.0,17.0
-ghoul,1.0,undead,2,12,22,None,0,13.0,15.0,10.0,7.0,10.0,6.0
-giant-ape,7.0,beast,4,12,157,None,0,23.0,14.0,18.0,7.0,12.0,7.0
-giant-badger,0.25,beast,2,10,13,None,0,13.0,10.0,15.0,2.0,12.0,5.0
-giant-bat,0.25,beast,3,13,22,fly,0,15.0,16.0,11.0,2.0,12.0,6.0
-giant-boar,2.0,beast,3,12,42,None,0,17.0,10.0,16.0,2.0,7.0,5.0
-giant-centipede,0.25,beast,1,13,4,None,0,5.0,14.0,12.0,1.0,7.0,3.0
-giant-constrictor-snake,2.0,beast,4,12,60,swim,0,19.0,14.0,12.0,1.0,10.0,3.0
-giant-crab,0.125,beast,2,15,13,swim,0,13.0,15.0,11.0,1.0,9.0,3.0
-giant-crocodile,5.0,beast,4,14,85,swim,0,21.0,9.0,17.0,2.0,10.0,7.0
-giant-eagle,1.0,beast,3,13,26,fly,0,16.0,17.0,13.0,8.0,14.0,10.0
-giant-elk,2.0,beast,4,14,42,None,0,19.0,16.0,14.0,7.0,14.0,10.0
-giant-fire-beetle,0.0,beast,1,13,4,None,0,8.0,10.0,12.0,1.0,7.0,3.0
-giant-four-armed-gargoyle,10.0,elemental,3,17,147,fly,0,,,,,,
-giant-frog,0.25,beast,2,11,18,swim,0,12.0,13.0,11.0,2.0,10.0,3.0
-giant-goat,0.5,beast,3,11,19,None,0,17.0,11.0,12.0,3.0,12.0,6.0
-giant-hyena,1.0,beast,3,12,45,None,0,16.0,14.0,14.0,2.0,12.0,7.0
-giant-lizard,0.25,beast,3,12,19,None,0,15.0,12.0,13.0,2.0,10.0,5.0
-giant-octopus,1.0,beast,3,11,52,swim,0,17.0,13.0,13.0,4.0,10.0,4.0
-giant-owl,0.25,beast,3,12,19,fly,0,13.0,15.0,12.0,8.0,13.0,10.0
-giant-poisonous-snake,0.25,beast,2,14,11,swim,0,10.0,18.0,13.0,2.0,10.0,3.0
-giant-rat,0.125,beast,1,12,7,None,0,7.0,15.0,11.0,2.0,10.0,4.0
-giant-scorpion,3.0,beast,3,15,52,None,0,15.0,13.0,15.0,1.0,9.0,3.0
-giant-sea-horse,0.5,beast,3,13,16,swim,0,12.0,15.0,11.0,2.0,12.0,5.0
-giant-shark,5.0,beast,4,13,126,swim,0,23.0,11.0,21.0,1.0,10.0,5.0
-giant-spider,1.0,beast,3,14,26,None,0,14.0,16.0,12.0,2.0,11.0,4.0
-giant-strider,1.0,monstrosity,3,14,22,None,0,18.0,13.0,14.0,4.0,12.0,6.0
-giant-toad,1.0,beast,3,11,39,swim,0,15.0,13.0,13.0,2.0,10.0,3.0
-giant-two-headed-goat,0.5,beast,3,11,19,None,0,17.0,11.0,12.0,3.0,12.0,6.0
-giant-vulture,1.0,beast,3,10,22,fly,0,15.0,10.0,15.0,6.0,12.0,7.0
-giant-wasp,0.5,beast,2,12,13,fly,0,10.0,14.0,10.0,1.0,10.0,3.0
-giant-weasel,0.125,beast,2,13,9,None,0,11.0,16.0,10.0,4.0,12.0,5.0
-giant-wolf-spider,0.25,beast,2,13,11,None,0,12.0,16.0,13.0,3.0,12.0,4.0
-gibbering-mouther,2.0,aberration,2,9,67,swim,0,10.0,8.0,16.0,3.0,10.0,6.0
-giff,3.0,humanoid,2,16,60,None,0,18.0,14.0,17.0,11.0,12.0,12.0
-girallon,4.0,monstrosity,3,13,59,None,0,18.0,16.0,16.0,5.0,12.0,7.0
-githyanki-gish,10.0,humanoid (gith),2,17,123,None,0,17.0,15.0,14.0,16.0,15.0,16.0
-githyanki-kith--rak,12.0,humanoid (gith),2,18,180,None,0,,,,,,
-githyanki-knight,8.0,humanoid (gith),2,18,91,None,0,16.0,14.0,15.0,14.0,14.0,15.0
-githyanki-supreme-commander,14.0,humanoid (gith),2,18,187,None,0,19.0,17.0,18.0,16.0,16.0,18.0
-githyanki-warrior,3.0,humanoid (gith),2,17,49,None,0,15.0,14.0,12.0,13.0,13.0,10.0
-githzerai-anarch,16.0,humanoid (gith),2,20,144,fly,0,16.0,21.0,18.0,18.0,20.0,14.0
-githzerai-enlightned,10.0,humanoid (gith),2,18,112,None,0,,,,,,
-githzerai-monk,2.0,humanoid (gith),2,14,38,None,0,12.0,15.0,12.0,13.0,14.0,10.0
-githzerai-zerth,6.0,humanoid (gith),2,17,84,None,0,13.0,18.0,15.0,16.0,17.0,12.0
-glabrezu,9.0,fiend (demon),3,17,157,None,0,20.0,15.0,21.0,19.0,17.0,16.0
-gladiator,5.0,humanoid (any race),2,16,112,None,0,18.0,15.0,16.0,10.0,12.0,15.0
-gloom-weaver,9.0,humanoid (elf),2,14,104,None,0,,,,,,
-gnoll,0.5,humanoid (gnoll),2,15,22,None,0,14.0,12.0,11.0,6.0,10.0,7.0
-gnoll-fang-of-yeenoghu,4.0,fiend (gnoll),2,14,65,None,0,17.0,15.0,15.0,10.0,11.0,13.0
-gnoll-flesh-gnawer,1.0,humanoid (gnoll),2,14,22,None,0,12.0,14.0,12.0,8.0,10.0,8.0
-gnoll-hunter,0.5,humanoid (gnoll),2,13,22,None,0,14.0,14.0,12.0,8.0,12.0,8.0
-gnoll-pack-lord,2.0,humanoid (gnoll),2,15,49,None,0,16.0,14.0,13.0,8.0,11.0,9.0
-gnoll-witherling,0.25,undead,2,12,11,None,0,14.0,8.0,12.0,5.0,5.0,5.0
-goat,0.0,beast,2,10,4,None,0,12.0,10.0,11.0,2.0,10.0,5.0
-goblin,0.25,humanoid (goblinoid),1,15,7,None,0,8.0,14.0,10.0,10.0,8.0,8.0
-goblin-boss,1.0,humanoid (goblinoid),1,17,21,None,0,10.0,14.0,10.0,10.0,8.0,10.0
-gold-dragon-wyrmling,3.0,dragon,2,17,60,"fly, swim",0,19.0,14.0,17.0,14.0,11.0,16.0
-gorgon,5.0,monstrosity,3,19,114,None,0,20.0,11.0,18.0,2.0,12.0,7.0
-goristro,17.0,fiend (demon),4,19,310,None,0,25.0,11.0,25.0,6.0,13.0,14.0
-gray-ooze,0.5,ooze,2,8,22,None,0,12.0,6.0,16.0,1.0,6.0,2.0
-gray-render,12.0,monstrosity,3,19,189,None,0,19.0,13.0,20.0,3.0,6.0,8.0
-gray-slaad,9.0,aberration (shapechanger),2,18,127,None,0,17.0,17.0,16.0,13.0,8.0,14.0
-graz-zt,24.0,"fiend (demon, shapechanger)",3,20,346,None,0,22.0,15.0,21.0,23.0,21.0,26.0
-green-abishai,15.0,fiend (devil),2,18,187,fly,0,12.0,17.0,16.0,17.0,12.0,19.0
-green-dragon-wyrmling,2.0,dragon,2,17,38,"fly, swim",0,15.0,12.0,13.0,14.0,11.0,13.0
-green-hag,3.0,fey,2,17,82,None,0,18.0,12.0,16.0,13.0,14.0,14.0
-green-slaad,8.0,aberration (shapechanger),3,16,127,None,0,18.0,15.0,16.0,11.0,8.0,12.0
-grell,3.0,aberration,2,12,55,fly,0,15.0,14.0,13.0,12.0,11.0,9.0
-grick,2.0,monstrosity,2,14,27,None,0,14.0,14.0,11.0,3.0,14.0,5.0
-grick-alpha,7.0,monstrosity,3,18,75,None,0,18.0,16.0,15.0,4.0,14.0,9.0
-griffon,2.0,monstrosity,3,12,59,fly,0,18.0,15.0,16.0,2.0,13.0,8.0
-grimlock,0.25,humanoid (grimlock),2,11,11,None,0,16.0,12.0,12.0,9.0,8.0,6.0
-grung,0.25,humanoid (grung),1,12,11,None,0,7.0,14.0,15.0,10.0,11.0,10.0
-grung-elite-warrior,2.0,humanoid (grung),1,13,49,None,0,7.0,16.0,15.0,10.0,11.0,12.0
-grung-wildling,1.0,humanoid (grung),1,13,27,None,0,7.0,16.0,15.0,10.0,15.0,11.0
-guard,0.125,humanoid (any race),2,16,11,None,0,13.0,12.0,12.0,10.0,11.0,10.0
-guard-drake,2.0,dragon,2,14,52,None,0,16.0,11.0,16.0,4.0,10.0,7.0
-guardian-naga,10.0,monstrosity,3,18,127,None,0,19.0,18.0,16.0,16.0,19.0,18.0
-gynosphinx,11.0,monstrosity,3,17,136,fly,Legendary,18.0,15.0,16.0,18.0,18.0,18.0
-halaster-blackcloak,23.0,humanoid (human),2,14,246,None,0,10.0,18.0,18.0,24.0,18.0,18.0
-half-ogre,1.0,giant,3,12,30,None,0,17.0,10.0,14.0,7.0,9.0,10.0
-half-red-dragon-veteran,5.0,humanoid (human),2,18,65,None,0,16.0,13.0,14.0,10.0,11.0,10.0
-harpy,1.0,monstrosity,2,11,38,fly,0,12.0,13.0,12.0,7.0,10.0,13.0
-hawk,0.0,beast,0,13,1,fly,0,5.0,16.0,8.0,2.0,14.0,6.0
-hell-hound,3.0,fiend,2,15,45,None,0,17.0,12.0,14.0,6.0,13.0,6.0
-hellfire-engine,16.0,construct,4,18,216,None,0,20.0,16.0,24.0,2.0,10.0,1.0
-hellwasp,5.0,fiend,3,19,52,fly,0,18.0,15.0,12.0,10.0,10.0,7.0
-helmed-horror,4.0,construct,2,20,60,fly,0,18.0,13.0,16.0,10.0,10.0,10.0
-hezrou,8.0,fiend (demon),3,16,136,None,0,19.0,17.0,20.0,5.0,12.0,13.0
-hill-giant,5.0,giant,4,13,105,None,0,21.0,8.0,19.0,5.0,9.0,6.0
-hippogriff,1.0,monstrosity,3,11,19,fly,0,17.0,13.0,13.0,2.0,12.0,8.0
-hobgoblin,0.5,humanoid (goblinoid),2,18,11,None,0,13.0,12.0,12.0,10.0,10.0,9.0
-hobgoblin-captain,3.0,humanoid (goblinoid),2,17,39,None,0,15.0,14.0,14.0,12.0,10.0,13.0
-hobgoblin-devastator,4.0,humanoid (goblinoid),2,13,45,None,0,13.0,12.0,14.0,16.0,13.0,11.0
-hobgoblin-iron-shadow,2.0,humanoid (goblinoid),2,15,32,None,0,14.0,16.0,15.0,14.0,15.0,11.0
-hobgoblin-warlord,6.0,humanoid (goblinoid),2,20,97,None,0,16.0,14.0,16.0,14.0,11.0,15.0
-homunculus,0.0,construct,0,13,5,fly,0,4.0,15.0,11.0,10.0,10.0,7.0
-hook-horror,3.0,monstrosity,3,15,75,None,0,18.0,10.0,15.0,6.0,12.0,7.0
-horned-devil,11.0,fiend (devil),3,18,178,fly,0,22.0,17.0,21.0,12.0,16.0,17.0
-howler,8.0,fiend,3,16,90,None,0,17.0,16.0,15.0,5.0,20.0,6.0
-hulking-crab,5.0,beast,4,17,76,swim,0,,,,,,
-hunter-shark,2.0,beast,3,12,45,swim,0,18.0,13.0,15.0,1.0,10.0,4.0
-hutijin,21.0,fiend (devil),3,19,200,fly,0,27.0,15.0,25.0,23.0,19.0,25.0
-hydra,8.0,monstrosity,4,15,172,swim,0,20.0,12.0,20.0,2.0,10.0,7.0
-hydroloth,9.0,fiend (yugoloth),2,15,135,swim,0,12.0,21.0,16.0,19.0,10.0,14.0
-hyena,0.0,beast,2,11,5,None,0,11.0,13.0,12.0,2.0,12.0,5.0
-ice-devil,14.0,fiend (devil),3,18,180,None,0,21.0,14.0,18.0,18.0,15.0,18.0
-ice-mephit,0.5,elemental,1,11,21,fly,0,7.0,13.0,10.0,9.0,11.0,12.0
-ice-toad,1.0,monstrosity,2,12,32,swim,0,,,,,,
-illusionist,3.0,humanoid (any race),2,12,38,None,0,,,,,,
-imix,19.0,elemental,4,17,325,fly,0,19.0,24.0,22.0,15.0,16.0,23.0
-imp,1.0,"fiend (devil, shapechanger)",0,13,10,fly,0,6.0,17.0,13.0,11.0,12.0,14.0
-intellect-devourer,2.0,aberration,0,12,21,None,0,6.0,14.0,13.0,12.0,11.0,10.0
-invisible-stalker,6.0,elemental,2,14,104,fly,0,16.0,19.0,14.0,10.0,15.0,11.0
-iron-cobra,4.0,construct,2,13,45,None,0,,,,,,
-iron-consul,2.0,humanoid (human),2,16,45,None,0,17.0,11.0,16.0,12.0,15.0,16.0
-iron-golem,16.0,construct,3,20,210,None,0,24.0,9.0,20.0,3.0,11.0,1.0
-jackal,0.0,beast,1,12,3,None,0,8.0,15.0,11.0,3.0,12.0,6.0
-jackalwere,0.5,humanoid (shapechanger),2,12,18,None,0,11.0,15.0,11.0,13.0,11.0,10.0
-jaculi,0.5,beast,3,14,16,None,0,,,,,,
-jarlaxle-baenre,15.0,humanoid (elf),2,24,123,None,0,12.0,22.0,14.0,20.0,16.0,19.0
-juiblex,23.0,fiend (demon),4,18,350,None,0,24.0,10.0,23.0,20.0,20.0,16.0
-kamadan,4.0,monstrosity,3,13,67,None,0,,,,,,
-kenku,0.25,humanoid (kenku),2,13,13,None,0,10.0,16.0,10.0,11.0,10.0,10.0
-ki-rin,12.0,celestial,4,20,152,fly,Legendary,21.0,16.0,16.0,19.0,20.0,20.0
-killer-whale,3.0,beast,4,12,90,swim,0,19.0,10.0,13.0,3.0,12.0,7.0
-knight,3.0,humanoid (any race),2,18,52,None,0,16.0,11.0,14.0,11.0,11.0,15.0
-kobold,0.125,humanoid (kobold),1,12,5,None,0,7.0,15.0,9.0,8.0,7.0,8.0
-kobold-dragonshield,1.0,humanoid (kobold),1,15,44,None,0,12.0,15.0,14.0,8.0,9.0,10.0
-kobold-inventor,0.25,humanoid (kobold),1,12,13,None,0,7.0,15.0,12.0,8.0,7.0,8.0
-kobold-scale-sorcerer,1.0,humanoid (kobold),1,15,27,None,0,7.0,15.0,14.0,10.0,9.0,14.0
-korred,7.0,fey,1,17,102,None,0,23.0,14.0,20.0,10.0,15.0,9.0
-kraken,23.0,monstrosity (titan),5,18,472,swim,Legendary,30.0,11.0,25.0,22.0,18.0,20.0
-kraken-priest,5.0,humanoid (any race),2,10,75,swim,0,12.0,10.0,16.0,10.0,15.0,14.0
-kruthik-hive-lord,5.0,monstrosity,3,20,102,None,0,19.0,16.0,17.0,10.0,14.0,10.0
-kuo-toa,0.25,humanoid (kuo-toa),2,13,18,swim,0,13.0,10.0,11.0,11.0,10.0,8.0
-kuo-toa-archpriest,6.0,humanoid (kuo-toa),2,13,97,swim,0,16.0,14.0,16.0,13.0,16.0,14.0
-kuo-toa-whip,1.0,humanoid (kuo-toa),2,11,65,swim,0,14.0,10.0,14.0,12.0,14.0,11.0
-laeral-silverhand,17.0,humanoid (human),2,18,228,None,0,13.0,17.0,20.0,20.0,20.0,19.0
-lamia,4.0,monstrosity,3,13,97,None,0,16.0,13.0,15.0,14.0,15.0,16.0
-lemure,0.0,fiend (devil),2,7,13,None,0,10.0,5.0,11.0,1.0,11.0,3.0
-leucrotta,3.0,monstrosity,3,14,67,None,0,18.0,14.0,15.0,9.0,12.0,6.0
-leviathan,20.0,elemental,5,17,328,swim,0,30.0,24.0,30.0,2.0,18.0,17.0
-lich,21.0,undead,2,17,135,None,Legendary,11.0,16.0,16.0,20.0,14.0,16.0
-lion,1.0,beast,3,12,26,None,0,17.0,15.0,13.0,3.0,12.0,8.0
-lizard,0.0,beast,0,10,2,None,0,2.0,11.0,10.0,1.0,8.0,3.0
-lizard-king-queen,4.0,humanoid (lizardfolk),2,15,78,swim,0,17.0,12.0,15.0,11.0,11.0,15.0
-lizardfolk,0.5,humanoid (lizardfolk),2,15,22,swim,0,15.0,10.0,13.0,7.0,12.0,7.0
-lizardfolk-shaman,2.0,humanoid (lizardfolk),2,13,27,swim,0,15.0,10.0,13.0,10.0,15.0,8.0
-mage,6.0,humanoid (any race),2,12,40,None,0,9.0,14.0,11.0,17.0,12.0,11.0
-magma-mephit,0.5,elemental,1,11,22,fly,0,8.0,12.0,12.0,7.0,10.0,10.0
-magmin,0.5,elemental,1,14,9,None,0,7.0,15.0,12.0,8.0,11.0,10.0
-male-steeder,0.25,monstrosity,2,12,13,None,0,15.0,12.0,14.0,2.0,10.0,3.0
-mammoth,6.0,beast,4,13,126,None,0,24.0,9.0,21.0,3.0,11.0,6.0
-manes,0.125,fiend (demon),1,9,9,None,0,10.0,9.0,13.0,3.0,8.0,4.0
-manshoon,13.0,humanoid (human),2,19,126,None,0,10.0,14.0,12.0,23.0,15.0,16.0
-manticore,3.0,monstrosity,3,14,68,fly,0,17.0,16.0,17.0,7.0,12.0,8.0
-mantrap,1.0,plant,3,12,45,None,0,,,,,,
-marid,11.0,elemental,3,17,229,"fly, swim",0,22.0,12.0,26.0,18.0,17.0,18.0
-marilith,16.0,fiend (demon),3,18,189,None,0,18.0,20.0,20.0,18.0,16.0,20.0
-martial-arts-adept,3.0,humanoid (any race),2,16,60,None,0,11.0,17.0,13.0,11.0,16.0,10.0
-marut,25.0,construct (inevitable),3,22,432,fly,0,28.0,12.0,26.0,19.0,15.0,18.0
-master-of-souls,4.0,humanoid (human),2,12,45,None,0,10.0,14.0,17.0,19.0,14.0,13.0
-master-thief,5.0,humanoid (any race),2,16,84,None,0,11.0,18.0,14.0,11.0,11.0,12.0
-mastiff,0.125,beast,2,12,5,None,0,13.0,14.0,12.0,3.0,12.0,7.0
-maurezhi,7.0,fiend (demon),2,15,88,None,0,14.0,17.0,12.0,11.0,12.0,15.0
-maw-demon,1.0,fiend (demon),2,13,33,None,0,14.0,8.0,13.0,5.0,8.0,5.0
-meazel,1.0,humanoid (meazel),2,13,35,None,0,8.0,17.0,9.0,14.0,13.0,10.0
-medusa,6.0,monstrosity,2,15,127,None,0,10.0,15.0,16.0,12.0,13.0,15.0
-meenlock,2.0,fey,1,15,31,None,0,7.0,15.0,12.0,11.0,10.0,8.0
-merfolk,0.125,humanoid (merfolk),2,11,11,swim,0,10.0,13.0,12.0,11.0,11.0,12.0
-merregon,4.0,fiend (devil),2,16,45,None,0,18.0,14.0,17.0,6.0,12.0,8.0
-merrenoloth,3.0,fiend (yugoloth),2,13,40,swim,0,8.0,17.0,10.0,17.0,14.0,11.0
-merrow,2.0,monstrosity,3,13,45,swim,0,18.0,10.0,15.0,8.0,10.0,9.0
-mezzoloth,5.0,fiend (yugoloth),2,18,75,None,0,18.0,11.0,16.0,7.0,10.0,11.0
-mimic,2.0,monstrosity (shapechanger),2,12,58,None,0,17.0,12.0,15.0,5.0,13.0,8.0
-mind-flayer,7.0,aberration,2,15,71,None,0,11.0,12.0,12.0,19.0,17.0,17.0
-mindwitness,5.0,aberration,3,15,75,fly,0,10.0,14.0,14.0,15.0,15.0,10.0
-minotaur,3.0,monstrosity,3,14,76,None,0,18.0,11.0,16.0,6.0,16.0,9.0
-minotaur-skeleton,2.0,undead,3,12,67,None,0,18.0,11.0,15.0,6.0,8.0,5.0
-moloch,21.0,fiend (devil),3,19,253,None,Legendary,26.0,19.0,22.0,21.0,18.0,23.0
-molydeus,21.0,fiend (demon),4,19,216,None,0,28.0,22.0,25.0,21.0,24.0,24.0
-monodrone,0.125,construct,2,15,5,fly,0,10.0,13.0,12.0,4.0,10.0,5.0
-morkoth,11.0,aberration,2,17,130,swim,0,14.0,14.0,14.0,20.0,15.0,13.0
-mouth-of-grolantor,6.0,giant (hill giant),4,14,105,None,0,21.0,10.0,18.0,5.0,7.0,5.0
-mud-mephit,0.25,elemental,1,11,27,"fly, swim",0,8.0,12.0,12.0,9.0,11.0,7.0
-mule,0.125,beast,2,10,11,None,0,14.0,10.0,13.0,2.0,10.0,5.0
-mummified-warrior,0.25,undead,2,8,19,None,0,13.0,6.0,14.0,8.0,6.0,8.0
-mummy,3.0,undead,2,11,58,None,0,16.0,8.0,15.0,6.0,10.0,12.0
-mummy-lord,15.0,undead,2,17,97,None,Legendary,18.0,10.0,17.0,11.0,18.0,16.0
-myconid-adult,0.5,plant,2,12,22,None,0,10.0,10.0,12.0,10.0,13.0,7.0
-myconid-sovereign,2.0,plant,3,13,60,None,0,12.0,10.0,14.0,13.0,15.0,10.0
-myconid-sprout,0.0,plant,1,10,7,None,0,8.0,10.0,10.0,8.0,11.0,5.0
-nabassu,15.0,fiend (demon),2,18,190,fly,0,22.0,14.0,21.0,14.0,15.0,17.0
-nagpa,17.0,humanoid (nagpa),2,19,187,None,0,9.0,15.0,12.0,23.0,18.0,21.0
-nalfeshnee,13.0,fiend (demon),3,18,184,fly,0,21.0,10.0,22.0,19.0,12.0,15.0
-narzugon,13.0,fiend (devil),2,20,112,None,0,20.0,10.0,17.0,16.0,14.0,19.0
-necromancer,9.0,humanoid (any race),2,12,66,None,0,,,,,,
-necromite-of-myrkul,0.5,humanoid (human),2,11,13,None,0,10.0,13.0,15.0,16.0,11.0,10.0
-needle-blight,0.25,plant,2,12,11,None,0,12.0,12.0,13.0,4.0,8.0,3.0
-neogi,3.0,aberration,1,15,33,None,0,6.0,16.0,14.0,13.0,12.0,15.0
-neogi-hatchling,0.125,aberration,0,11,7,None,0,3.0,13.0,10.0,6.0,10.0,9.0
-neogi-master,4.0,aberration,2,15,71,None,0,6.0,16.0,14.0,16.0,12.0,18.0
-neothelid,13.0,aberration,5,16,325,None,0,27.0,7.0,21.0,3.0,16.0,12.0
-night-blade,0.25,humanoid (human),2,12,11,None,0,11.0,15.0,12.0,10.0,11.0,14.0
-night-hag,5.0,fiend,2,17,112,None,0,18.0,15.0,16.0,16.0,14.0,16.0
-nightmare,3.0,fiend,3,13,68,fly,0,18.0,15.0,16.0,10.0,13.0,15.0
-nightwalker,20.0,undead,4,14,297,fly,0,22.0,19.0,24.0,6.0,9.0,8.0
-nilbog,1.0,humanoid (goblinoid),1,13,7,None,0,8.0,14.0,10.0,10.0,8.0,15.0
-noble,0.125,humanoid (any race),2,15,9,None,0,11.0,12.0,11.0,12.0,14.0,16.0
-nothic,2.0,aberration,2,15,45,None,0,14.0,16.0,16.0,13.0,10.0,8.0
-nupperibo,0.5,fiend (devil),2,13,11,None,0,16.0,11.0,13.0,3.0,8.0,1.0
-nycaloth,9.0,fiend (yugoloth),3,18,123,fly,0,20.0,11.0,19.0,12.0,10.0,15.0
-oblex-spawn,0.25,ooze,0,13,18,None,0,8.0,16.0,15.0,14.0,11.0,10.0
-ochre-jelly,2.0,ooze,3,8,45,None,0,15.0,6.0,14.0,2.0,6.0,1.0
-octopus,0.0,beast,1,12,3,swim,0,4.0,15.0,11.0,3.0,10.0,4.0
-ogre,2.0,giant,3,11,59,None,0,19.0,8.0,16.0,5.0,7.0,7.0
-ogre-battering-ram,4.0,giant,3,14,59,None,0,19.0,8.0,16.0,5.0,7.0,7.0
-ogre-bolt-launcher,2.0,giant,3,13,59,None,0,19.0,12.0,16.0,5.0,7.0,7.0
-ogre-chain-brute,3.0,giant,3,11,59,None,0,19.0,8.0,16.0,5.0,7.0,7.0
-ogre-howdah,2.0,giant,3,13,59,None,0,19.0,8.0,16.0,5.0,7.0,7.0
-ogre-zombie,2.0,undead,3,8,85,None,0,19.0,6.0,18.0,3.0,6.0,5.0
-ogremoch,20.0,elemental,5,20,526,None,0,26.0,11.0,28.0,11.0,15.0,22.0
-oinoloth,12.0,fiend (yugoloth),2,17,126,None,0,19.0,17.0,18.0,17.0,16.0,19.0
-olhydra,18.0,elemental,4,18,324,swim,0,21.0,22.0,24.0,17.0,18.0,23.0
-oni,7.0,giant,3,16,110,fly,0,19.0,11.0,16.0,14.0,12.0,15.0
-orc,0.5,humanoid (orc),2,13,15,None,0,16.0,12.0,16.0,7.0,11.0,10.0
-orc-blade-of-ilneval,4.0,humanoid (orc),2,18,60,None,0,17.0,11.0,17.0,10.0,12.0,14.0
-orc-claw-of-luthic,2.0,humanoid (orc),2,14,45,None,0,14.0,15.0,16.0,10.0,15.0,11.0
-orc-eye-of-gruumsh,2.0,humanoid (orc),2,16,45,None,0,16.0,12.0,16.0,9.0,13.0,12.0
-orc-hand-of-yurtrus,2.0,humanoid (orc),2,12,30,None,0,12.0,11.0,16.0,11.0,14.0,9.0
-orc-red-fang-of-shargaas,3.0,humanoid (orc),2,15,52,None,0,11.0,16.0,15.0,9.0,11.0,9.0
-orc-war-chief,4.0,humanoid (orc),2,16,93,None,0,18.0,12.0,18.0,11.0,11.0,16.0
-orcus,26.0,fiend (demon),4,17,405,fly,Legendary,27.0,14.0,25.0,20.0,20.0,25.0
-orog,2.0,humanoid (orc),2,18,42,None,0,18.0,12.0,18.0,12.0,11.0,12.0
-orthon,10.0,fiend (devil),3,17,105,None,0,22.0,16.0,21.0,15.0,15.0,16.0
-otyugh,5.0,aberration,3,14,114,None,0,16.0,11.0,19.0,6.0,13.0,6.0
-owl,0.0,beast,0,11,1,fly,0,3.0,13.0,8.0,2.0,12.0,7.0
-owlbear,3.0,monstrosity,3,13,59,None,0,20.0,12.0,17.0,3.0,12.0,7.0
-panther,0.25,beast,2,12,13,None,0,14.0,15.0,10.0,3.0,14.0,7.0
-pegasus,2.0,celestial,3,12,59,fly,0,18.0,15.0,16.0,10.0,15.0,13.0
-pentadrone,2.0,construct,3,16,32,None,0,15.0,14.0,12.0,10.0,10.0,13.0
-peryton,2.0,monstrosity,2,13,33,fly,0,16.0,12.0,13.0,9.0,12.0,10.0
-phase-spider,3.0,monstrosity,3,13,32,None,0,15.0,15.0,12.0,6.0,10.0,6.0
-phoenix,16.0,elemental,5,18,175,fly,0,19.0,26.0,25.0,2.0,21.0,18.0
-piercer,0.5,monstrosity,2,15,22,None,0,10.0,13.0,16.0,1.0,7.0,3.0
-pit-fiend,20.0,fiend (devil),3,19,300,fly,0,26.0,14.0,24.0,22.0,18.0,24.0
-pixie,0.25,fey,0,15,1,fly,0,2.0,20.0,8.0,10.0,14.0,15.0
-planetar,16.0,celestial,3,19,200,fly,0,24.0,20.0,24.0,19.0,22.0,25.0
-plesiosaurus,2.0,beast,3,13,68,swim,0,18.0,15.0,16.0,2.0,12.0,5.0
-poisonous-snake,0.125,beast,0,13,2,swim,0,2.0,16.0,11.0,1.0,10.0,3.0
-polar-bear,2.0,beast,3,12,42,swim,0,20.0,10.0,16.0,2.0,13.0,7.0
-pony,0.125,beast,2,10,11,None,0,15.0,10.0,13.0,2.0,11.0,7.0
-priest,2.0,humanoid (any race),2,13,27,None,0,10.0,10.0,12.0,13.0,16.0,13.0
-pseudodragon,0.25,dragon,0,13,7,fly,0,6.0,15.0,13.0,10.0,12.0,10.0
-pterafolk,1.0,monstrosity,3,12,26,fly,0,,,,,,
-pteranodon,0.25,beast,2,13,13,fly,0,12.0,15.0,10.0,2.0,9.0,5.0
-purple-worm,15.0,monstrosity,5,18,247,None,0,28.0,7.0,22.0,1.0,8.0,4.0
-purple-wormling,2.0,monstrosity,3,12,42,None,0,,,,,,
-quadrone,1.0,construct,2,16,22,fly,0,12.0,14.0,12.0,10.0,10.0,11.0
-quaggoth,2.0,humanoid (quaggoth),2,13,45,None,0,17.0,12.0,16.0,6.0,12.0,7.0
-quaggoth-spore-servant,1.0,plant,2,13,45,None,0,17.0,12.0,16.0,2.0,6.0,1.0
-quasit,1.0,"fiend (demon, shapechanger)",0,13,7,None,0,5.0,17.0,10.0,7.0,10.0,10.0
-quetzalcoatlus,2.0,beast,4,13,30,fly,0,15.0,13.0,13.0,2.0,10.0,5.0
-quickling,1.0,fey,0,16,10,None,0,4.0,23.0,13.0,10.0,12.0,7.0
-quipper,0.0,beast,0,13,1,swim,0,2.0,16.0,9.0,1.0,7.0,2.0
-rakshasa,13.0,fiend,2,16,110,None,0,14.0,17.0,18.0,13.0,16.0,20.0
-rat,0.0,beast,0,10,1,None,0,2.0,11.0,9.0,2.0,10.0,4.0
-raven,0.0,beast,0,12,1,fly,0,2.0,14.0,8.0,2.0,12.0,6.0
-reaper-of-bhaal,2.0,humanoid (human),2,15,27,None,0,11.0,20.0,13.0,15.0,12.0,16.0
-red-abishai,19.0,fiend (devil),2,22,255,fly,0,23.0,16.0,19.0,14.0,15.0,19.0
-red-dragon-wyrmling,4.0,dragon,2,17,75,fly,0,19.0,10.0,17.0,12.0,11.0,15.0
-red-slaad,5.0,aberration,3,14,93,None,0,16.0,12.0,16.0,6.0,6.0,7.0
-redcap,3.0,fey,1,13,45,None,0,18.0,13.0,18.0,10.0,12.0,9.0
-reef-manta-ray,0.5,beast,3,12,16,swim,0,13.0,12.0,12.0,1.0,12.0,4.0
-reef-shark,0.5,beast,2,12,22,swim,0,14.0,13.0,13.0,1.0,10.0,4.0
-remorhaz,11.0,monstrosity,4,17,195,None,0,24.0,13.0,21.0,4.0,10.0,5.0
-retriever,14.0,construct,3,19,210,None,0,22.0,16.0,20.0,3.0,11.0,4.0
-revenant,5.0,undead,2,13,136,None,0,18.0,14.0,18.0,13.0,16.0,18.0
-rhinoceros,2.0,beast,3,11,45,None,0,21.0,8.0,15.0,2.0,12.0,6.0
-riding-horse,0.25,beast,3,10,13,None,0,16.0,10.0,12.0,2.0,11.0,7.0
-roc,11.0,monstrosity,5,15,248,fly,0,28.0,10.0,20.0,3.0,10.0,9.0
-roper,5.0,monstrosity,3,20,93,None,0,18.0,8.0,17.0,7.0,16.0,6.0
-rot-troll,9.0,giant,3,16,138,None,0,18.0,13.0,22.0,5.0,8.0,4.0
-rug-of-smothering,2.0,construct,3,12,33,None,0,17.0,14.0,10.0,1.0,3.0,1.0
-rust-monster,0.5,monstrosity,2,14,27,None,0,13.0,12.0,13.0,2.0,13.0,6.0
-rutterkin,2.0,fiend (demon),2,12,37,None,0,14.0,15.0,17.0,5.0,12.0,6.0
-saber-toothed-tiger,2.0,beast,3,12,52,None,0,18.0,14.0,15.0,3.0,12.0,8.0
-sahuagin,0.5,humanoid (sahuagin),2,12,22,swim,0,13.0,11.0,12.0,12.0,13.0,9.0
-sahuagin-baron,5.0,humanoid (sahuagin),3,16,76,swim,0,19.0,15.0,16.0,14.0,13.0,17.0
-sahuagin-priestess,2.0,humanoid (sahuagin),2,12,33,swim,0,13.0,11.0,12.0,12.0,14.0,13.0
-salamander,5.0,elemental,3,15,90,None,0,18.0,14.0,15.0,11.0,10.0,12.0
-satyr,0.5,fey,2,14,31,None,0,12.0,16.0,11.0,12.0,10.0,14.0
-scarecrow,1.0,construct,2,11,36,None,0,11.0,13.0,11.0,10.0,10.0,13.0
-scorpion,0.0,beast,0,11,1,None,0,2.0,11.0,8.0,1.0,8.0,2.0
-scout,0.5,humanoid (any race),2,13,16,None,0,11.0,14.0,12.0,11.0,13.0,11.0
-sea-hag,2.0,fey,2,14,52,swim,0,16.0,13.0,16.0,12.0,12.0,13.0
-sea-horse,0.0,beast,0,11,1,swim,0,1.0,12.0,8.0,1.0,10.0,2.0
-sea-spawn,1.0,humanoid,2,11,32,swim,0,15.0,8.0,15.0,6.0,10.0,8.0
-shadow,0.5,undead,2,12,16,None,0,6.0,14.0,13.0,6.0,10.0,8.0
-shadow-dancer,7.0,humanoid (elf),2,15,71,None,0,,,,,,
-shadow-demon,4.0,fiend (demon),2,13,66,fly,0,1.0,17.0,12.0,14.0,13.0,14.0
-shadow-mastiff,2.0,monstrosity,2,12,33,None,0,16.0,14.0,13.0,5.0,12.0,5.0
-shambling-mound,5.0,plant,3,15,136,swim,0,18.0,8.0,16.0,5.0,10.0,5.0
-shield-guardian,7.0,construct,3,17,142,None,0,18.0,8.0,18.0,7.0,10.0,3.0
-shoosuva,8.0,fiend (demon),3,14,110,None,0,18.0,13.0,17.0,7.0,14.0,9.0
-shrieker,0.0,plant,2,5,13,None,0,1.0,1.0,10.0,1.0,3.0,1.0
-sibriex,18.0,fiend (demon),4,19,150,fly,Legendary,10.0,3.0,23.0,25.0,24.0,25.0
-silver-dragon-wyrmling,2.0,dragon,2,17,45,fly,0,19.0,10.0,17.0,12.0,11.0,15.0
-skeleton,0.25,undead,2,13,13,None,0,10.0,14.0,15.0,6.0,8.0,5.0
-skulk,0.5,humanoid,2,14,18,None,0,6.0,19.0,10.0,10.0,7.0,1.0
-skull-lasher-of-myrkul,1.0,humanoid (human),2,12,32,None,0,10.0,14.0,15.0,16.0,13.0,10.0
-skull-lord,15.0,undead,2,18,105,None,0,14.0,16.0,17.0,16.0,15.0,21.0
-slaad-tadpole,0.125,aberration,0,12,10,None,0,7.0,15.0,10.0,3.0,5.0,3.0
-slithering-tracker,3.0,ooze,2,14,32,swim,0,16.0,19.0,15.0,10.0,14.0,11.0
-smoke-mephit,0.25,elemental,1,12,22,fly,0,6.0,14.0,12.0,10.0,10.0,11.0
-solar,21.0,celestial,3,21,243,fly,Legendary,26.0,22.0,26.0,25.0,25.0,30.0
-soul-monger,11.0,humanoid (elf),2,15,123,None,0,,,,,,
-spawn-of-kyuss,5.0,undead,2,10,76,None,0,16.0,11.0,18.0,5.0,7.0,3.0
-spectator,3.0,aberration,2,14,39,fly,0,8.0,14.0,14.0,13.0,14.0,11.0
-specter,1.0,undead,2,12,22,fly,0,1.0,14.0,11.0,10.0,10.0,11.0
-spider,0.0,beast,0,12,1,None,0,2.0,14.0,8.0,1.0,10.0,2.0
-spined-devil,2.0,fiend (devil),1,13,22,fly,0,10.0,15.0,12.0,11.0,14.0,8.0
-spirit-naga,8.0,monstrosity,3,15,75,None,0,18.0,17.0,14.0,16.0,15.0,16.0
-spirit-troll,11.0,giant,3,17,97,None,0,1.0,17.0,13.0,8.0,9.0,16.0
-spring-eladrin,10.0,fey (elf),2,19,127,None,0,14.0,16.0,16.0,18.0,11.0,18.0
-sprite,0.25,fey,0,15,2,fly,0,3.0,18.0,10.0,14.0,13.0,11.0
-spy,1.0,humanoid (any race),2,12,27,None,0,10.0,15.0,10.0,12.0,14.0,16.0
-star-spawn-grue,0.25,aberration,1,11,17,None,0,6.0,13.0,10.0,9.0,11.0,6.0
-star-spawn-hulk,10.0,aberration,3,16,136,None,0,20.0,8.0,21.0,7.0,12.0,9.0
-star-spawn-larva-mage,16.0,aberration,2,16,168,None,0,17.0,12.0,23.0,18.0,12.0,16.0
-star-spawn-mangler,5.0,aberration,2,14,71,None,0,8.0,18.0,12.0,11.0,12.0,7.0
-star-spawn-seer,13.0,aberration,2,17,153,None,0,14.0,12.0,18.0,22.0,19.0,16.0
-steam-mephit,0.25,elemental,1,10,21,fly,0,5.0,11.0,10.0,11.0,10.0,12.0
-steel-predator,16.0,construct,3,20,207,None,0,24.0,17.0,22.0,4.0,14.0,6.0
-stegosaurus,4.0,beast,4,13,76,None,0,,,,,,
-stirge,0.125,beast,0,14,2,fly,0,4.0,16.0,11.0,2.0,8.0,6.0
-stone-cursed,1.0,construct,2,17,19,None,0,16.0,5.0,14.0,5.0,8.0,7.0
-stone-giant,7.0,giant,4,17,126,None,0,23.0,15.0,20.0,10.0,12.0,9.0
-stone-giant-dreamwalker,10.0,giant (stone giant),4,18,161,None,0,23.0,14.0,21.0,10.0,8.0,12.0
-stone-golem,10.0,construct,3,17,178,None,0,22.0,9.0,20.0,3.0,11.0,1.0
-stone-juggernaut,12.0,construct,3,15,157,None,0,,,,,,
-storm-giant,13.0,giant,4,16,230,swim,0,29.0,14.0,20.0,16.0,18.0,18.0
-storm-giant-quintessent,16.0,giant (storm giant),4,12,230,"fly, swim",0,29.0,14.0,20.0,17.0,20.0,19.0
-strahd-von-zarovich,15.0,undead (shapechanger),2,16,144,None,0,18.0,18.0,18.0,20.0,15.0,18.0
-su-monster,1.0,monstrosity,2,12,27,None,0,,,,,,
-succubus,4.0,fiend (shapechanger),2,15,66,fly,0,8.0,17.0,13.0,15.0,12.0,20.0
-summer-eladrin,10.0,fey (elf),2,19,127,None,0,19.0,21.0,16.0,14.0,12.0,18.0
-swarm-of-bats,0.25,swarm of Tiny beasts,2,12,22,fly,0,5.0,15.0,10.0,2.0,12.0,4.0
-swarm-of-cranium-rats,5.0,swarm of Tiny beasts,2,12,36,None,0,9.0,14.0,10.0,15.0,11.0,14.0
-swarm-of-insects,0.5,swarm of Tiny beasts,2,12,22,None,0,3.0,13.0,10.0,1.0,7.0,1.0
-swarm-of-poisonous-snakes,2.0,swarm of Tiny beasts,2,14,36,swim,0,8.0,18.0,11.0,1.0,10.0,3.0
-swarm-of-quippers,1.0,swarm of Tiny beasts,2,13,28,swim,0,13.0,16.0,9.0,1.0,7.0,2.0
-swarm-of-rats,0.25,swarm of Tiny beasts,2,10,24,None,0,9.0,11.0,9.0,2.0,10.0,3.0
-swarm-of-ravens,0.25,swarm of Tiny beasts,2,12,24,fly,0,6.0,14.0,8.0,3.0,12.0,6.0
-swarm-of-rot-grubs,0.5,swarm of Tiny beasts,2,8,22,None,0,2.0,7.0,10.0,1.0,2.0,1.0
-swashbuckler,3.0,humanoid (any race),2,17,66,None,0,12.0,18.0,12.0,14.0,11.0,15.0
-sword-wraith-commander,8.0,undead,2,18,127,None,0,18.0,14.0,18.0,11.0,12.0,14.0
-sword-wraith-warrior,3.0,undead,2,16,45,None,0,18.0,12.0,17.0,6.0,9.0,10.0
-tabaxi-hunter,1.0,humanoid (tabaxi),2,14,40,None,0,10.0,17.0,11.0,13.0,14.0,15.0
-tabaxi-minstrel,0.25,humanoid (tabaxi),2,12,22,None,0,10.0,15.0,11.0,14.0,12.0,16.0
-tanarukk,5.0,"fiend (demon, orc)",2,14,95,None,0,18.0,13.0,20.0,9.0,9.0,9.0
-tarrasque,30.0,monstrosity (titan),5,25,676,None,Legendary,30.0,11.0,30.0,3.0,11.0,11.0
-the-angry,13.0,monstrosity,2,18,255,None,0,,,,,,
-the-hungry,11.0,monstrosity,2,17,225,None,0,,,,,,
-the-lonely,9.0,monstrosity,2,16,112,None,0,,,,,,
-the-lost,7.0,monstrosity,2,15,78,None,0,,,,,,
-the-wretched,0.25,monstrosity,1,15,10,None,0,,,,,,
-thorny,1.0,plant,2,14,27,None,0,,,,,,
-thri-kreen,1.0,humanoid (thri-kreen),2,15,33,None,0,12.0,15.0,13.0,8.0,12.0,7.0
-thug,0.5,humanoid (any race),2,11,32,None,0,15.0,11.0,14.0,10.0,10.0,11.0
-tiamat,30.0,fiend,5,25,615,fly,0,30.0,10.0,30.0,26.0,26.0,28.0
-tiger,1.0,beast,3,12,37,None,0,17.0,15.0,14.0,3.0,12.0,8.0
-titivilus,16.0,fiend (devil),2,20,127,fly,0,19.0,22.0,17.0,24.0,22.0,26.0
-tlincalli,5.0,monstrosity,3,15,85,None,0,16.0,13.0,16.0,8.0,12.0,8.0
-tortle,0.25,humanoid (tortle),2,17,22,None,0,15.0,10.0,12.0,11.0,13.0,12.0
-tortle-druid,2.0,humanoid (tortle),2,17,33,None,0,14.0,10.0,12.0,11.0,15.0,12.0
-transmuter,5.0,humanoid (any race),2,12,40,None,0,,,,,,
-trapper,3.0,monstrosity,3,13,85,None,0,17.0,10.0,17.0,2.0,13.0,4.0
-treant,9.0,plant,4,16,138,None,0,23.0,8.0,21.0,12.0,16.0,12.0
-tri-flower-frond,0.5,plant,2,10,11,None,0,,,,,,
-tribal-warrior,0.125,humanoid (any race),2,12,11,None,0,13.0,11.0,12.0,8.0,11.0,8.0
-triceratops,5.0,beast,4,13,95,None,0,22.0,9.0,17.0,2.0,11.0,5.0
-tridrone,0.5,construct,2,15,16,None,0,12.0,13.0,12.0,9.0,10.0,9.0
-troglodyte,0.25,humanoid (troglodyte),2,11,13,None,0,14.0,10.0,14.0,6.0,10.0,6.0
-troll,5.0,giant,3,15,84,None,0,18.0,13.0,20.0,7.0,9.0,7.0
-twig-blight,0.125,plant,1,13,4,None,0,6.0,13.0,12.0,4.0,8.0,3.0
-tyrannosaurus-rex,8.0,beast,4,13,136,None,0,25.0,10.0,19.0,2.0,12.0,9.0
-ulitharid,9.0,aberration,3,15,127,None,0,15.0,12.0,15.0,21.0,19.0,21.0
-ultroloth,13.0,fiend (yugoloth),2,19,153,fly,0,16.0,16.0,18.0,18.0,15.0,19.0
-umber-hulk,5.0,monstrosity,3,18,93,None,0,20.0,13.0,16.0,9.0,10.0,10.0
-unicorn,5.0,celestial,3,12,67,None,Legendary,18.0,14.0,15.0,11.0,17.0,16.0
-uthgardt-shaman,2.0,humanoid (human),2,13,38,None,0,14.0,12.0,13.0,10.0,15.0,12.0
-vajra-safahr,13.0,humanoid (human),2,14,126,None,0,10.0,14.0,12.0,20.0,11.0,16.0
-vampire,13.0,undead (shapechanger),2,16,144,None,Legendary,18.0,18.0,18.0,17.0,15.0,18.0
-vampire-spawn,5.0,undead,2,15,82,None,0,16.0,16.0,16.0,11.0,10.0,12.0
-vampiric-mist,3.0,undead,2,13,30,fly,0,6.0,16.0,16.0,6.0,12.0,7.0
-vargouille,1.0,fiend,0,12,13,fly,0,6.0,14.0,14.0,4.0,7.0,2.0
-vegepygmy,0.25,plant,1,13,9,None,0,7.0,14.0,13.0,6.0,11.0,7.0
-vegepygmy-chief,2.0,plant,1,14,33,None,0,14.0,14.0,14.0,7.0,12.0,9.0
-velociraptor,0.25,beast,0,13,10,None,0,6.0,14.0,13.0,4.0,12.0,6.0
-venerable-shadow,2.0,undead,2,13,27,None,0,6.0,16.0,13.0,6.0,12.0,10.0
-venom-troll,7.0,giant,3,15,94,None,0,18.0,13.0,20.0,7.0,9.0,7.0
-veteran,3.0,humanoid (any race),2,17,58,None,0,16.0,13.0,14.0,10.0,11.0,10.0
-vine-blight,0.5,plant,2,12,26,None,0,15.0,8.0,14.0,5.0,10.0,3.0
-violet-fungus,0.25,plant,2,5,18,None,0,3.0,1.0,10.0,1.0,3.0,1.0
-vrock,6.0,fiend (demon),3,15,104,fly,0,17.0,15.0,18.0,8.0,13.0,8.0
-vulture,0.0,beast,2,10,5,fly,0,7.0,10.0,13.0,2.0,12.0,4.0
-war-priest,9.0,humanoid (any race),2,18,117,None,0,16.0,10.0,14.0,11.0,17.0,13.0
-warhorse,0.5,beast,3,11,19,None,0,18.0,12.0,13.0,2.0,12.0,7.0
-warhorse-skeleton,0.5,undead,3,13,22,None,0,18.0,12.0,15.0,2.0,8.0,5.0
-warlock-of-the-archfey,4.0,humanoid (any race),2,11,49,None,0,9.0,16.0,11.0,11.0,12.0,18.0
-warlock-of-the-fiend,7.0,humanoid (any race),2,12,78,None,0,10.0,16.0,15.0,12.0,12.0,18.0
-warlock-of-the-great-old-one,6.0,humanoid (any race),2,12,91,None,0,9.0,16.0,15.0,12.0,12.0,18.0
-warlord,12.0,humanoid (any race),2,18,229,None,Legendary,20.0,16.0,18.0,12.0,12.0,18.0
-wastrilith,13.0,fiend (demon),3,18,157,swim,0,19.0,18.0,21.0,19.0,12.0,14.0
-water-elemental,5.0,elemental,3,14,114,swim,0,18.0,14.0,18.0,5.0,10.0,8.0
-water-elemental-myrmidon,7.0,elemental,2,18,127,swim,0,18.0,14.0,15.0,8.0,10.0,10.0
-water-weird,3.0,elemental,3,13,58,swim,0,17.0,16.0,13.0,11.0,10.0,10.0
-weasel,0.0,beast,0,13,1,None,0,3.0,16.0,8.0,2.0,12.0,3.0
-werebear,5.0,"humanoid (human, shapechanger)",2,10,135,None,0,19.0,10.0,17.0,11.0,12.0,12.0
-wereboar,4.0,"humanoid (human, shapechanger)",2,10,78,None,0,17.0,10.0,15.0,10.0,11.0,8.0
-wererat,2.0,"humanoid (human, shapechanger)",2,12,33,None,0,10.0,15.0,12.0,11.0,10.0,8.0
-weretiger,4.0,"humanoid (human, shapechanger)",2,12,120,None,0,17.0,15.0,16.0,10.0,13.0,11.0
-werewolf,3.0,"humanoid (human, shapechanger)",2,11,58,None,0,15.0,13.0,14.0,10.0,11.0,10.0
-white-abishai,6.0,fiend (devil),2,15,68,fly,0,16.0,11.0,18.0,11.0,12.0,13.0
-white-dragon-wyrmling,2.0,dragon,2,16,32,"fly, swim",0,14.0,10.0,14.0,5.0,10.0,11.0
-wight,3.0,undead,2,14,45,None,0,15.0,14.0,16.0,10.0,13.0,15.0
-wild-dog,0.125,beast,2,12,5,None,0,13.0,14.0,12.0,3.0,12.0,7.0
-wild-dog-alpha,1.0,beast,3,12,26,None,0,17.0,15.0,13.0,3.0,12.0,8.0
-will-o--wisp,2.0,undead,0,19,22,fly,0,1.0,28.0,10.0,13.0,14.0,11.0
-winged-kobold,0.25,humanoid (kobold),1,13,7,fly,0,7.0,16.0,9.0,8.0,7.0,8.0
-winter-eladrin,10.0,fey (elf),2,19,127,None,0,11.0,16.0,16.0,18.0,17.0,13.0
-winter-wolf,3.0,monstrosity,3,13,75,None,0,18.0,13.0,14.0,7.0,12.0,8.0
-wolf,0.25,beast,2,13,11,None,0,12.0,15.0,12.0,3.0,12.0,6.0
-wood-woad,5.0,plant,2,18,75,None,0,18.0,12.0,16.0,10.0,13.0,8.0
-worg,0.5,monstrosity,3,13,26,None,0,16.0,13.0,13.0,7.0,11.0,8.0
-wraith,5.0,undead,2,13,67,fly,0,6.0,16.0,16.0,12.0,14.0,15.0
-wyvern,6.0,dragon,3,13,110,fly,0,19.0,10.0,16.0,5.0,12.0,6.0
-xorn,5.0,elemental,2,19,73,None,0,17.0,10.0,22.0,11.0,10.0,11.0
-xvart,0.125,humanoid (xvart),1,13,7,None,0,8.0,14.0,10.0,8.0,7.0,7.0
-xvart-warlock-of-raxivort,1.0,humanoid (xvart),1,12,22,None,0,8.0,14.0,12.0,8.0,11.0,12.0
-yagnoloth,11.0,fiend (yugoloth),3,17,147,None,0,19.0,14.0,21.0,16.0,15.0,18.0
-yan-c-bin,18.0,elemental,4,22,283,fly,0,18.0,24.0,24.0,16.0,21.0,23.0
-yeenoghu,24.0,fiend (demon),4,20,333,None,0,29.0,16.0,23.0,15.0,24.0,15.0
-yellow-musk-creeper,2.0,plant,2,6,60,None,0,12.0,3.0,12.0,1.0,10.0,3.0
-yellow-musk-zombie,0.25,undead,2,9,33,None,0,13.0,9.0,12.0,1.0,6.0,3.0
-yeth-hound,4.0,fey,3,14,51,fly,0,18.0,17.0,16.0,5.0,12.0,7.0
-yeti,3.0,monstrosity,3,12,51,None,0,18.0,13.0,16.0,8.0,12.0,7.0
-yochlol,10.0,"fiend (demon, shapechanger)",2,15,136,None,0,15.0,14.0,18.0,13.0,15.0,15.0
-young-black-dragon,7.0,dragon,3,18,127,"fly, swim",0,19.0,14.0,17.0,12.0,11.0,15.0
-young-blue-dragon,9.0,dragon,3,18,152,fly,0,21.0,10.0,19.0,14.0,13.0,17.0
-young-brass-dragon,6.0,dragon,3,17,110,fly,0,19.0,10.0,17.0,12.0,11.0,15.0
-young-bronze-dragon,8.0,dragon,3,18,142,"fly, swim",0,21.0,10.0,19.0,14.0,13.0,17.0
-young-copper-dragon,7.0,dragon,3,17,119,fly,0,19.0,12.0,17.0,16.0,13.0,15.0
-young-gold-dragon,10.0,dragon,3,18,178,"fly, swim",0,23.0,14.0,21.0,16.0,13.0,20.0
-young-green-dragon,8.0,dragon,3,18,136,"fly, swim",0,19.0,12.0,17.0,16.0,13.0,15.0
-young-kruthik,0.125,monstrosity,1,16,9,None,0,13.0,16.0,13.0,4.0,10.0,6.0
-young-red-dragon,10.0,dragon,3,18,178,fly,0,23.0,10.0,21.0,14.0,11.0,19.0
-young-red-shadow-dragon,13.0,dragon,3,18,178,fly,0,23.0,10.0,21.0,14.0,11.0,19.0
-young-remorhaz,5.0,monstrosity,3,14,93,None,0,18.0,13.0,17.0,3.0,10.0,4.0
-young-silver-dragon,9.0,dragon,3,18,168,fly,0,23.0,10.0,21.0,14.0,11.0,19.0
-young-white-dragon,6.0,dragon,3,17,133,"fly, swim",0,18.0,10.0,18.0,6.0,11.0,12.0
-yuan-ti-abomination,7.0,"monstrosity (shapechanger, yuan-ti)",3,15,127,None,0,19.0,16.0,17.0,17.0,15.0,18.0
-yuan-ti-anathema,12.0,"monstrosity (shapechanger, yuan-ti)",4,16,189,swim,0,23.0,13.0,19.0,19.0,17.0,20.0
-yuan-ti-broodguard,2.0,humanoid (yuan-ti),2,14,45,None,0,15.0,14.0,14.0,6.0,11.0,4.0
-yuan-ti-malison,3.0,"monstrosity (shapechanger, yuan-ti)",2,12,66,None,0,16.0,14.0,13.0,14.0,12.0,16.0
-yuan-ti-mind-whisperer,4.0,"monstrosity (shapechanger, yuan-ti)",2,14,71,None,0,16.0,14.0,13.0,14.0,14.0,16.0
-yuan-ti-nightmare-speaker,4.0,"monstrosity (shapechanger, yuan-ti)",2,14,71,None,0,16.0,14.0,13.0,14.0,12.0,16.0
-yuan-ti-pit-master,5.0,"monstrosity (shapechanger, yuan-ti)",2,14,88,None,0,16.0,14.0,13.0,14.0,12.0,16.0
-yuan-ti-pureblood,1.0,humanoid (yuan-ti),2,11,40,None,0,11.0,12.0,11.0,13.0,12.0,14.0
-zaratan,22.0,elemental,5,21,307,swim,0,30.0,10.0,30.0,2.0,21.0,18.0
-zariel,26.0,fiend (devil),3,21,580,fly,Legendary,27.0,24.0,28.0,26.0,27.0,30.0
-zombie,0.25,undead,2,8,22,None,0,13.0,6.0,16.0,3.0,6.0,5.0
-zuggtmoy,23.0,fiend (demon),3,18,304,None,0,22.0,15.0,18.0,20.0,19.0,24.0
+aarakocra,0.25,humanoid (aarakocra),2,12,13,fly,False,10.0,14.0,10.0,11.0,12.0,11.0
+abjurer,9.0,humanoid (any race),2,12,84,None,False,,,,,,
+aboleth,10.0,aberration,3,17,135,swim,True,21.0,9.0,15.0,18.0,15.0,18.0
+abominable-yeti,9.0,monstrosity,4,15,137,None,False,24.0,10.0,22.0,9.0,13.0,9.0
+acererak,23.0,undead,2,21,285,None,True,13.0,16.0,20.0,27.0,21.0,20.0
+acolyte,0.25,humanoid (any race),2,10,9,None,False,10.0,10.0,10.0,10.0,14.0,11.0
+adult-black-dragon,14.0,dragon,4,19,195,"fly, swim",True,23.0,14.0,21.0,14.0,13.0,17.0
+adult-blue-dracolich,17.0,undead,4,19,225,fly,True,25.0,10.0,23.0,16.0,15.0,19.0
+adult-blue-dragon,16.0,dragon,4,19,225,fly,True,25.0,10.0,23.0,16.0,15.0,19.0
+adult-brass-dragon,13.0,dragon,4,18,172,fly,True,23.0,10.0,21.0,14.0,13.0,17.0
+adult-bronze-dragon,15.0,dragon,4,19,212,"fly, swim",True,25.0,10.0,23.0,16.0,15.0,19.0
+adult-copper-dragon,14.0,dragon,4,18,184,fly,True,23.0,12.0,21.0,18.0,15.0,17.0
+adult-gold-dragon,17.0,dragon,4,19,256,"fly, swim",True,27.0,14.0,25.0,16.0,15.0,24.0
+adult-green-dragon,15.0,dragon,4,19,207,"fly, swim",True,23.0,12.0,21.0,18.0,15.0,17.0
+adult-kruthik,2.0,monstrosity,2,18,39,None,False,15.0,16.0,15.0,7.0,12.0,8.0
+adult-oblex,5.0,ooze,2,14,75,None,False,8.0,19.0,16.0,19.0,12.0,15.0
+adult-red-dragon,17.0,dragon,4,19,256,fly,True,27.0,10.0,25.0,16.0,13.0,21.0
+adult-silver-dragon,16.0,dragon,4,19,243,fly,True,27.0,10.0,25.0,16.0,13.0,21.0
+adult-white-dragon,13.0,dragon,4,18,200,"fly, swim",True,22.0,10.0,22.0,8.0,12.0,12.0
+air-elemental,5.0,elemental,3,15,90,fly,False,14.0,20.0,14.0,6.0,10.0,6.0
+air-elemental-myrmidon,7.0,elemental,2,18,117,fly,False,18.0,14.0,14.0,9.0,10.0,10.0
+albino-dwarf-warrior,0.25,humanoid (dwarf),2,13,30,None,False,,,,,,
+aldani,1.0,monstrosity,2,0,0,swim,False,,,,,,
+alhoon,10.0,undead,2,15,120,None,False,11.0,12.0,16.0,19.0,17.0,17.0
+alkilith,11.0,fiend (demon),2,17,157,None,False,12.0,19.0,22.0,6.0,11.0,7.0
+allip,5.0,undead,2,13,40,fly,False,6.0,17.0,10.0,17.0,15.0,16.0
+allosaurus,2.0,beast,3,13,51,None,False,19.0,13.0,17.0,2.0,12.0,5.0
+ambush-drake,0.5,dragon,2,13,22,None,False,,,,,,
+amnizu,18.0,fiend (devil),2,21,202,fly,False,11.0,13.0,16.0,20.0,12.0,18.0
+ancient-black-dragon,21.0,dragon,5,22,367,"fly, swim",True,27.0,14.0,25.0,16.0,15.0,19.0
+ancient-blue-dragon,23.0,dragon,5,22,481,fly,True,29.0,10.0,27.0,18.0,17.0,21.0
+ancient-brass-dragon,20.0,dragon,5,20,297,fly,True,27.0,10.0,25.0,16.0,15.0,19.0
+ancient-bronze-dragon,22.0,dragon,5,22,444,"fly, swim",True,29.0,10.0,27.0,18.0,17.0,21.0
+ancient-copper-dragon,21.0,dragon,5,21,350,fly,True,27.0,12.0,25.0,20.0,17.0,19.0
+ancient-gold-dragon,24.0,dragon,5,22,546,"fly, swim",True,30.0,14.0,29.0,18.0,17.0,28.0
+ancient-green-dragon,22.0,dragon,5,21,385,"fly, swim",True,27.0,12.0,25.0,20.0,17.0,19.0
+ancient-red-dragon,24.0,dragon,5,22,546,fly,True,30.0,10.0,29.0,18.0,15.0,23.0
+ancient-shadow,1.0,undead,2,13,32,None,False,6.0,16.0,14.0,6.0,10.0,8.0
+ancient-silver-dragon,23.0,dragon,5,22,487,fly,True,30.0,10.0,29.0,18.0,15.0,23.0
+ancient-white-dragon,20.0,dragon,5,20,333,"fly, swim",True,26.0,10.0,26.0,10.0,13.0,14.0
+androsphinx,17.0,monstrosity,3,17,199,fly,True,22.0,10.0,20.0,16.0,18.0,23.0
+animated-armor,1.0,construct,2,18,33,None,False,14.0,11.0,13.0,1.0,3.0,1.0
+ankheg,2.0,monstrosity,3,14,39,None,False,17.0,11.0,13.0,1.0,13.0,6.0
+ankylosaurus,3.0,beast,4,15,68,None,False,19.0,11.0,15.0,2.0,12.0,5.0
+annis-hag,6.0,fey,3,17,75,None,False,21.0,12.0,14.0,13.0,14.0,15.0
+ape,0.5,beast,2,12,19,None,False,16.0,14.0,14.0,6.0,12.0,7.0
+apprentice-wizard,0.25,humanoid (any race),2,10,9,None,False,10.0,10.0,10.0,14.0,10.0,11.0
+arcanaloth,12.0,fiend (yugoloth),2,17,104,fly,False,17.0,12.0,14.0,20.0,16.0,17.0
+archdruid,12.0,humanoid (any race),2,16,132,None,False,14.0,14.0,12.0,12.0,20.0,11.0
+archer,3.0,humanoid (any race),2,16,75,None,False,11.0,18.0,16.0,11.0,13.0,10.0
+archmage,12.0,humanoid (any race),2,12,99,None,False,10.0,14.0,12.0,20.0,15.0,16.0
+armanite,7.0,fiend (demon),3,16,84,None,False,21.0,18.0,21.0,8.0,12.0,13.0
+assassin,8.0,humanoid (any race),2,15,78,None,False,11.0,16.0,14.0,13.0,11.0,10.0
+assassin-vine,3.0,plant,3,13,85,None,False,18.0,10.0,16.0,1.0,10.0,1.0
+astral-dreadnought,21.0,monstrosity (titan),5,20,297,fly,True,28.0,7.0,25.0,5.0,14.0,18.0
+atropal,13.0,undead (titan),4,7,225,fly,False,,,,,,
+aurochs,2.0,beast,3,11,38,None,False,20.0,10.0,19.0,2.0,12.0,5.0
+autumn-eladrin,10.0,fey (elf),2,19,127,None,False,12.0,16.0,16.0,14.0,17.0,18.0
+awakened-shrub,0.0,plant,1,9,10,None,False,3.0,8.0,11.0,10.0,10.0,6.0
+awakened-tree,2.0,plant,4,13,59,None,False,19.0,6.0,15.0,10.0,10.0,7.0
+axe-beak,0.25,beast,3,11,19,None,False,14.0,12.0,12.0,2.0,10.0,5.0
+azer,2.0,elemental,2,17,39,None,False,17.0,12.0,15.0,12.0,13.0,10.0
+babau,4.0,fiend (demon),2,16,82,None,False,19.0,16.0,16.0,11.0,12.0,13.0
+baboon,0.0,beast,1,12,3,None,False,8.0,14.0,11.0,4.0,12.0,6.0
+badger,0.0,beast,0,10,3,None,False,4.0,11.0,12.0,2.0,12.0,5.0
+bael,19.0,fiend (devil),3,18,189,None,True,24.0,17.0,20.0,21.0,24.0,24.0
+balhannoth,11.0,aberration,3,17,114,None,True,17.0,8.0,18.0,6.0,15.0,8.0
+balor,19.0,fiend (demon),4,19,262,fly,False,26.0,15.0,22.0,20.0,16.0,22.0
+banderhobb,5.0,monstrosity,3,15,84,None,False,20.0,12.0,20.0,11.0,14.0,8.0
+bandit,0.125,humanoid (any race),2,12,11,None,False,11.0,12.0,12.0,10.0,10.0,10.0
+bandit-captain,2.0,humanoid (any race),2,15,65,None,False,15.0,16.0,14.0,14.0,11.0,14.0
+banshee,4.0,undead,2,12,58,fly,False,1.0,14.0,10.0,12.0,11.0,17.0
+baphomet,23.0,fiend (demon),4,22,275,None,True,30.0,14.0,26.0,18.0,24.0,16.0
+barbed-devil,5.0,fiend (devil),2,15,110,None,False,16.0,17.0,18.0,12.0,14.0,14.0
+bard,2.0,humanoid (any race),2,15,44,None,False,11.0,14.0,12.0,10.0,13.0,14.0
+barghest,4.0,fiend (shapechanger),3,17,90,None,False,19.0,15.0,14.0,13.0,12.0,14.0
+barlgura,5.0,fiend (demon),3,15,68,None,False,18.0,15.0,16.0,7.0,14.0,9.0
+basilisk,3.0,monstrosity,2,15,52,None,False,16.0,8.0,15.0,2.0,8.0,7.0
+bat,0.0,beast,0,12,1,fly,False,2.0,15.0,8.0,2.0,12.0,4.0
+bearded-devil,3.0,fiend (devil),2,13,52,None,False,16.0,15.0,15.0,9.0,11.0,11.0
+behir,11.0,monstrosity,4,17,168,None,False,23.0,16.0,18.0,7.0,14.0,12.0
+beholder,13.0,aberration,3,18,180,fly,True,10.0,14.0,18.0,17.0,15.0,17.0
+beholder-zombie,5.0,undead,3,15,93,fly,False,10.0,8.0,16.0,3.0,8.0,5.0
+belaphoss,20.0,fiend (demon),4,19,262,fly,False,26.0,15.0,22.0,20.0,16.0,22.0
+berbalang,2.0,aberration,2,14,38,fly,False,9.0,16.0,9.0,17.0,11.0,10.0
+berserker,2.0,humanoid (any race),2,13,67,None,False,16.0,12.0,17.0,9.0,11.0,9.0
+bheur-hag,7.0,fey,2,17,91,None,False,13.0,16.0,14.0,12.0,13.0,16.0
+black-abishai,7.0,fiend (devil),2,15,58,fly,False,14.0,17.0,14.0,13.0,16.0,11.0
+black-bear,0.5,beast,2,11,19,None,False,15.0,10.0,14.0,2.0,12.0,7.0
+black-dragon-wyrmling,2.0,dragon,2,17,33,"fly, swim",False,15.0,14.0,13.0,10.0,11.0,13.0
+black-gauntlet-of-bane,6.0,humanoid (human),2,16,51,None,False,18.0,11.0,18.0,12.0,15.0,18.0
+black-pudding,4.0,ooze,3,7,85,None,False,16.0,5.0,16.0,1.0,6.0,1.0
+blackguard,8.0,humanoid (any race),2,18,153,None,False,18.0,11.0,18.0,11.0,14.0,15.0
+blink-dog,0.25,fey,2,13,22,None,False,12.0,17.0,12.0,10.0,13.0,11.0
+blood-hawk,0.125,beast,1,12,7,fly,False,6.0,14.0,10.0,3.0,14.0,5.0
+blue-abishai,17.0,fiend (devil),2,19,195,fly,False,15.0,14.0,17.0,22.0,23.0,18.0
+blue-dragon-wyrmling,3.0,dragon,2,17,52,fly,False,17.0,10.0,15.0,12.0,11.0,15.0
+blue-slaad,7.0,aberration,3,15,123,None,False,20.0,15.0,18.0,7.0,7.0,9.0
+boar,0.25,beast,2,11,11,None,False,13.0,11.0,12.0,2.0,9.0,5.0
+bodak,6.0,undead,2,15,58,None,False,15.0,16.0,15.0,7.0,12.0,12.0
+boggle,0.125,fey,1,14,18,None,False,8.0,18.0,13.0,6.0,12.0,7.0
+bone-devil,9.0,fiend (devil),3,19,142,fly,False,18.0,16.0,18.0,13.0,14.0,16.0
+bone-naga,4.0,undead,3,15,58,None,False,15.0,16.0,12.0,15.0,15.0,16.0
+boneclaw,12.0,undead,3,16,127,None,False,19.0,16.0,15.0,13.0,15.0,9.0
+brass-dragon-wyrmling,1.0,dragon,2,16,16,fly,False,15.0,10.0,13.0,10.0,11.0,13.0
+brontosaurus,5.0,beast,5,15,121,None,False,,,,,,
+bronze-dragon-wyrmling,2.0,dragon,2,17,32,"fly, swim",False,17.0,10.0,15.0,12.0,11.0,15.0
+brown-bear,1.0,beast,3,11,34,None,False,19.0,10.0,16.0,2.0,13.0,7.0
+bugbear,1.0,humanoid (goblinoid),2,16,27,None,False,15.0,14.0,13.0,8.0,11.0,9.0
+bugbear-chief,3.0,humanoid (goblinoid),2,17,65,None,False,17.0,14.0,14.0,11.0,12.0,11.0
+bulette,5.0,monstrosity,3,17,94,None,False,19.0,11.0,21.0,2.0,10.0,5.0
+bulezau,3.0,fiend (demon),2,14,52,None,False,15.0,14.0,17.0,8.0,9.0,6.0
+bullywug,0.25,humanoid (bullywug),2,15,11,swim,False,12.0,12.0,13.0,7.0,10.0,7.0
+cadaver-collector,14.0,construct,3,17,189,None,False,21.0,14.0,20.0,5.0,11.0,8.0
+cambion,5.0,fiend,2,19,82,fly,False,18.0,18.0,16.0,14.0,12.0,16.0
+camel,0.125,beast,3,9,15,None,False,16.0,8.0,14.0,2.0,8.0,5.0
+canoloth,8.0,fiend (yugoloth),2,16,120,None,False,18.0,10.0,17.0,5.0,17.0,12.0
+carrion-crawler,2.0,monstrosity,3,13,51,None,False,14.0,13.0,16.0,1.0,12.0,5.0
+cat,0.0,beast,0,12,2,None,False,3.0,15.0,10.0,3.0,12.0,7.0
+catoblepas,5.0,monstrosity,3,14,84,None,False,19.0,12.0,21.0,3.0,14.0,8.0
+cave-fisher,3.0,monstrosity,2,16,58,None,False,16.0,13.0,14.0,3.0,10.0,3.0
+centaur,2.0,monstrosity,3,12,45,None,False,18.0,14.0,14.0,9.0,13.0,11.0
+chain-devil,8.0,fiend (devil),2,16,85,None,False,18.0,15.0,18.0,11.0,12.0,14.0
+champion,9.0,humanoid (any race),2,18,143,None,False,20.0,15.0,14.0,10.0,14.0,12.0
+chasme,6.0,fiend (demon),3,15,84,fly,False,15.0,15.0,12.0,11.0,14.0,10.0
+chimera,6.0,monstrosity,3,14,114,fly,False,19.0,11.0,19.0,3.0,14.0,10.0
+chitine,0.5,monstrosity,1,14,18,None,False,10.0,14.0,12.0,10.0,10.0,7.0
+choker,1.0,aberration,1,16,13,None,False,16.0,14.0,13.0,4.0,12.0,7.0
+choldrith,3.0,monstrosity,2,15,66,None,False,12.0,16.0,12.0,11.0,14.0,10.0
+chuul,4.0,aberration,3,16,93,swim,False,19.0,10.0,16.0,5.0,11.0,5.0
+clay-golem,9.0,construct,3,14,133,None,False,20.0,9.0,18.0,3.0,8.0,1.0
+cloaker,8.0,aberration,3,14,78,fly,False,17.0,15.0,12.0,13.0,12.0,14.0
+cloud-giant,9.0,giant,4,14,200,None,False,27.0,10.0,22.0,12.0,16.0,16.0
+cloud-giant-smiling-one,11.0,giant (cloud giant),4,15,262,None,False,26.0,12.0,22.0,15.0,16.0,17.0
+cockatrice,0.5,monstrosity,1,11,27,fly,False,6.0,12.0,12.0,2.0,13.0,5.0
+commoner,0.0,humanoid (any race),2,10,4,None,False,10.0,10.0,10.0,10.0,10.0,10.0
+conjurer,6.0,humanoid (any race),2,12,40,None,False,,,,,,
+constrictor-snake,0.25,beast,3,12,13,swim,False,15.0,14.0,12.0,1.0,10.0,3.0
+copper-dragon-wyrmling,1.0,dragon,2,16,22,fly,False,15.0,12.0,13.0,14.0,11.0,13.0
+corpse-flower,8.0,plant,3,12,127,None,False,14.0,14.0,16.0,7.0,15.0,3.0
+couatl,4.0,celestial,2,19,97,fly,False,16.0,20.0,17.0,18.0,20.0,18.0
+cow,0.25,beast,3,10,15,None,False,18.0,10.0,14.0,2.0,10.0,4.0
+crab,0.0,beast,0,11,2,swim,False,2.0,11.0,10.0,1.0,8.0,2.0
+crag-cat,1.0,beast,3,13,34,None,False,,,,,,
+cranium-rat,0.0,beast,0,12,2,None,False,2.0,14.0,10.0,4.0,11.0,8.0
+crawling-claw,0.0,undead,0,12,2,None,False,13.0,14.0,11.0,5.0,10.0,4.0
+crocodile,0.5,beast,3,12,19,swim,False,15.0,10.0,13.0,2.0,10.0,5.0
+crokek-toeck,14.0,fiend (demon),5,15,297,swim,False,28.0,10.0,24.0,6.0,10.0,13.0
+cult-fanatic,2.0,humanoid (any race),2,13,33,None,False,11.0,14.0,12.0,10.0,13.0,14.0
+cultist,0.125,humanoid (any race),2,12,9,None,False,11.0,12.0,10.0,10.0,11.0,10.0
+cyclops,6.0,giant,4,14,138,None,False,22.0,11.0,20.0,8.0,6.0,10.0
+dao,11.0,elemental,3,18,187,fly,False,23.0,12.0,24.0,12.0,13.0,14.0
+darkling,0.5,fey,1,14,13,None,False,9.0,16.0,12.0,10.0,12.0,10.0
+darkling-elder,2.0,fey,2,15,27,None,False,13.0,17.0,12.0,10.0,14.0,13.0
+darkmantle,0.5,monstrosity,1,11,22,fly,False,16.0,12.0,13.0,2.0,10.0,5.0
+death-dog,1.0,monstrosity,2,12,39,None,False,15.0,14.0,14.0,3.0,13.0,6.0
+death-kiss,10.0,aberration,3,16,161,fly,False,18.0,14.0,18.0,10.0,12.0,10.0
+death-knight,17.0,undead,2,20,180,None,False,20.0,11.0,20.0,12.0,16.0,18.0
+death-slaad,10.0,aberration (shapechanger),2,18,170,None,False,20.0,15.0,19.0,15.0,10.0,16.0
+death-tyrant,14.0,undead,3,19,187,fly,True,10.0,14.0,14.0,19.0,15.0,19.0
+death-s-head-of-bhaal,5.0,humanoid (human),2,15,76,None,False,20.0,20.0,20.0,14.0,13.0,16.0
+deathlock,4.0,undead,2,12,36,None,False,11.0,15.0,10.0,14.0,12.0,16.0
+deathlock-mastermind,8.0,undead,2,13,110,None,False,11.0,16.0,12.0,15.0,12.0,17.0
+deathlock-wight,3.0,undead,2,12,37,None,False,11.0,14.0,16.0,12.0,14.0,16.0
+deep-gnome-svirfneblin,0.5,humanoid (gnome),1,15,16,None,False,15.0,14.0,14.0,12.0,10.0,9.0
+deep-scion,3.0,humanoid (shapechanger),2,11,67,swim,False,18.0,13.0,16.0,10.0,12.0,14.0
+deer,0.0,beast,2,13,4,None,False,11.0,16.0,11.0,2.0,14.0,5.0
+deinonychus,1.0,beast,2,13,26,None,False,,,,,,
+demilich,18.0,undead,0,20,80,fly,True,1.0,20.0,10.0,20.0,17.0,20.0
+demogorgon,26.0,fiend (demon),4,22,406,swim,True,29.0,14.0,26.0,20.0,17.0,25.0
+derro,0.25,humanoid (derro),1,13,13,None,False,10.0,14.0,12.0,11.0,5.0,9.0
+derro-savant,3.0,humanoid (derro),1,13,36,None,False,9.0,14.0,12.0,11.0,5.0,14.0
+deva,10.0,celestial,2,17,136,fly,False,18.0,18.0,18.0,17.0,20.0,20.0
+devilroot,7.0,plant,2,15,105,None,False,17.0,11.0,17.0,12.0,14.0,14.0
+devourer,13.0,fiend,3,16,178,None,False,20.0,12.0,20.0,13.0,10.0,16.0
+dhergoloth,7.0,fiend (yugoloth),2,15,119,None,False,17.0,10.0,19.0,7.0,10.0,9.0
+dimetrodon,0.25,beast,2,12,19,swim,False,,,,,,
+dire-troll,13.0,giant,4,15,172,None,False,22.0,15.0,21.0,9.0,11.0,5.0
+dire-wolf,1.0,beast,3,14,37,None,False,17.0,15.0,15.0,3.0,12.0,7.0
+displacer-beast,3.0,monstrosity,3,13,85,None,False,18.0,15.0,16.0,6.0,12.0,8.0
+diviner,8.0,humanoid (any race),2,12,67,None,False,,,,,,
+djinni,11.0,elemental,3,17,161,fly,False,21.0,15.0,22.0,15.0,16.0,20.0
+dolphin,0.125,beast,2,12,11,swim,False,14.0,13.0,13.0,6.0,12.0,7.0
+doppelganger,3.0,monstrosity (shapechanger),2,14,52,None,False,11.0,18.0,14.0,11.0,12.0,14.0
+draegloth,7.0,fiend (demon),3,15,123,None,False,20.0,15.0,18.0,13.0,11.0,11.0
+draft-horse,0.25,beast,3,10,19,None,False,18.0,10.0,12.0,2.0,11.0,7.0
+dragon-turtle,17.0,dragon,5,20,341,swim,False,25.0,10.0,20.0,10.0,12.0,12.0
+dragonbait,5.0,humanoid (saurial),2,17,120,None,False,,,,,,
+dretch,0.25,fiend (demon),1,11,18,None,False,11.0,11.0,12.0,5.0,8.0,3.0
+drider,6.0,monstrosity,3,19,123,None,False,16.0,16.0,18.0,13.0,14.0,12.0
+drow,0.25,humanoid (elf),2,15,13,None,False,10.0,14.0,10.0,11.0,11.0,12.0
+drow-arachnomancer,13.0,humanoid (elf),2,15,162,None,False,11.0,17.0,14.0,19.0,14.0,16.0
+drow-elite-warrior,5.0,humanoid (elf),2,18,71,None,False,13.0,18.0,14.0,11.0,13.0,12.0
+drow-favored-consort,18.0,humanoid (elf),2,15,225,None,False,15.0,20.0,16.0,18.0,15.0,18.0
+drow-house-captain,9.0,humanoid (elf),2,16,162,None,False,14.0,19.0,15.0,12.0,14.0,13.0
+drow-inquisitor,14.0,humanoid (elf),2,16,143,None,False,11.0,15.0,14.0,16.0,21.0,20.0
+drow-mage,7.0,humanoid (elf),2,12,45,None,False,9.0,14.0,10.0,17.0,13.0,12.0
+drow-matron-mother,20.0,humanoid (elf),2,17,262,None,True,12.0,18.0,16.0,17.0,21.0,22.0
+drow-priestress-of-lolth,8.0,humanoid (elf),2,16,71,None,False,,,,,,
+drow-shadowblade,11.0,humanoid (elf),2,17,150,None,False,14.0,21.0,16.0,12.0,14.0,13.0
+druid,2.0,humanoid (any race),2,11,27,None,False,10.0,12.0,13.0,12.0,15.0,11.0
+dryad,1.0,fey,2,11,22,None,False,10.0,12.0,11.0,14.0,15.0,18.0
+duergar,1.0,humanoid (dwarf),2,16,26,None,False,14.0,11.0,14.0,11.0,10.0,9.0
+duergar-despot,12.0,humanoid (dwarf),2,21,119,None,False,20.0,5.0,19.0,15.0,14.0,13.0
+duergar-kavalrachni,2.0,humanoid (dwarf),2,16,26,None,False,14.0,11.0,14.0,11.0,10.0,9.0
+duergar-mind-master,2.0,humanoid (dwarf),2,14,39,None,False,11.0,17.0,14.0,15.0,10.0,12.0
+duergar-soulblade,1.0,humanoid (dwarf),2,14,18,None,False,11.0,16.0,10.0,11.0,10.0,12.0
+duergar-stone-guard,2.0,humanoid (dwarf),2,18,39,None,False,18.0,11.0,14.0,11.0,10.0,9.0
+duergar-warlord,6.0,humanoid (dwarf),2,20,75,None,False,18.0,11.0,17.0,12.0,12.0,14.0
+duergar-xarrorn,2.0,humanoid (dwarf),2,18,26,None,False,16.0,11.0,14.0,11.0,10.0,9.0
+duodrone,0.25,construct,2,15,11,None,False,11.0,13.0,12.0,6.0,10.0,7.0
+dust-mephit,0.5,elemental,1,12,17,fly,False,5.0,14.0,10.0,9.0,11.0,10.0
+dybbuk,4.0,fiend (demon),2,14,37,fly,False,6.0,19.0,16.0,16.0,15.0,14.0
+eagle,0.0,beast,1,12,3,fly,False,6.0,15.0,10.0,2.0,14.0,7.0
+earth-elemental,5.0,elemental,3,17,126,None,False,20.0,8.0,20.0,5.0,10.0,5.0
+earth-elemental-myrmidon,7.0,elemental,2,18,127,None,False,18.0,10.0,17.0,8.0,10.0,10.0
+eblis,1.0,monstrosity,3,13,26,fly,False,,,,,,
+efreeti,11.0,elemental,3,17,200,fly,False,22.0,12.0,24.0,16.0,15.0,16.0
+eidolon,12.0,undead,2,9,63,fly,False,7.0,8.0,9.0,14.0,19.0,16.0
+elder-brain,14.0,aberration,3,10,210,swim,True,15.0,10.0,20.0,21.0,19.0,24.0
+elder-oblex,10.0,ooze,4,16,115,None,False,15.0,16.0,21.0,22.0,13.0,18.0
+elder-tempest,23.0,elemental,5,19,264,fly,True,23.0,28.0,23.0,2.0,21.0,18.0
+elephant,4.0,beast,4,12,76,None,False,22.0,9.0,17.0,3.0,11.0,6.0
+elk,0.25,beast,3,10,13,None,False,16.0,10.0,12.0,2.0,10.0,6.0
+empyrean,23.0,celestial (titan),4,22,313,"fly, swim",True,30.0,21.0,30.0,21.0,22.0,27.0
+enchanter,5.0,humanoid (any race),2,12,40,None,False,,,,,,
+erinyes,12.0,fiend (devil),2,18,153,fly,False,18.0,16.0,18.0,14.0,14.0,18.0
+ettercap,2.0,monstrosity,2,13,44,None,False,14.0,15.0,13.0,7.0,12.0,8.0
+ettin,4.0,giant,3,12,85,None,False,21.0,8.0,17.0,6.0,10.0,8.0
+evoker,9.0,humanoid (any race),2,12,66,None,False,,,,,,
+faerie-dragon,1.0,dragon,0,15,14,fly,False,3.0,20.0,13.0,14.0,12.0,16.0
+female-steeder,1.0,monstrosity,3,14,30,None,False,15.0,16.0,14.0,2.0,10.0,3.0
+fire-elemental,5.0,elemental,3,13,102,None,False,10.0,17.0,16.0,6.0,10.0,7.0
+fire-elemental-myrmidon,7.0,elemental,2,18,123,None,False,13.0,18.0,15.0,9.0,10.0,10.0
+fire-giant,9.0,giant,4,18,162,None,False,25.0,9.0,23.0,10.0,14.0,13.0
+fire-giant-dreadnought,14.0,giant (fire giant),4,21,187,None,False,27.0,9.0,23.0,8.0,10.0,11.0
+fire-snake,1.0,elemental,2,14,22,None,False,12.0,14.0,11.0,7.0,10.0,8.0
+firenewt-warlock-of-imix,1.0,humanoid (firenewt),2,10,33,None,False,13.0,11.0,12.0,9.0,11.0,14.0
+firenewt-warrior,0.5,humanoid (firenewt),2,16,22,None,False,10.0,13.0,12.0,7.0,11.0,8.0
+fist-of-bane,0.5,humanoid (human),2,18,22,None,False,16.0,11.0,13.0,10.0,12.0,11.0
+flail-snail,3.0,elemental,3,16,52,None,False,17.0,5.0,20.0,3.0,10.0,5.0
+flameskull,4.0,undead,0,13,40,fly,False,1.0,17.0,14.0,16.0,10.0,11.0
+flesh-golem,5.0,construct,2,9,93,None,False,19.0,9.0,18.0,6.0,10.0,5.0
+flind,9.0,humanoid (gnoll),2,16,127,None,False,20.0,10.0,19.0,11.0,13.0,12.0
+flumph,0.125,aberration,1,12,7,fly,False,6.0,15.0,10.0,14.0,14.0,11.0
+flying-snake,0.125,beast,0,14,5,"fly, swim",False,4.0,18.0,11.0,2.0,12.0,5.0
+flying-sword,0.25,construct,1,17,17,fly,False,12.0,15.0,11.0,1.0,5.0,1.0
+fomorian,8.0,giant,4,14,149,None,False,23.0,10.0,20.0,9.0,14.0,6.0
+fraz-urb-luu,23.0,fiend (demon),3,18,337,fly,True,29.0,12.0,25.0,26.0,24.0,26.0
+frog,0.0,beast,0,11,1,swim,False,1.0,13.0,8.0,1.0,8.0,3.0
+froghemoth,10.0,monstrosity,4,14,184,swim,False,23.0,13.0,20.0,2.0,12.0,5.0
+frost-giant,8.0,giant,4,15,138,None,False,23.0,9.0,21.0,9.0,10.0,12.0
+frost-giant-everlasting-one,12.0,giant (frost giant),4,15,189,None,False,25.0,9.0,24.0,9.0,10.0,12.0
+frost-salamander,9.0,elemental,4,17,168,None,False,20.0,12.0,18.0,7.0,11.0,7.0
+galeb-duhr,6.0,elemental,2,16,85,None,False,20.0,14.0,20.0,11.0,12.0,11.0
+gargoyle,2.0,elemental,2,15,52,fly,False,15.0,11.0,16.0,6.0,11.0,7.0
+gas-spore,0.5,plant,3,5,1,fly,False,5.0,1.0,3.0,1.0,1.0,1.0
+gauth,6.0,aberration,2,15,67,fly,False,10.0,14.0,16.0,15.0,15.0,13.0
+gazer,0.5,aberration,0,13,13,fly,False,3.0,17.0,14.0,3.0,10.0,7.0
+gelatinous-cube,2.0,ooze,3,6,84,None,False,14.0,3.0,20.0,1.0,6.0,1.0
+geryon,22.0,fiend (devil),4,19,300,fly,True,29.0,17.0,22.0,19.0,16.0,23.0
+ghast,2.0,undead,2,13,36,None,False,16.0,17.0,10.0,11.0,10.0,8.0
+ghost,4.0,undead,2,11,45,fly,False,7.0,13.0,10.0,10.0,12.0,17.0
+ghoul,1.0,undead,2,12,22,None,False,13.0,15.0,10.0,7.0,10.0,6.0
+giant-ape,7.0,beast,4,12,157,None,False,23.0,14.0,18.0,7.0,12.0,7.0
+giant-badger,0.25,beast,2,10,13,None,False,13.0,10.0,15.0,2.0,12.0,5.0
+giant-bat,0.25,beast,3,13,22,fly,False,15.0,16.0,11.0,2.0,12.0,6.0
+giant-boar,2.0,beast,3,12,42,None,False,17.0,10.0,16.0,2.0,7.0,5.0
+giant-centipede,0.25,beast,1,13,4,None,False,5.0,14.0,12.0,1.0,7.0,3.0
+giant-constrictor-snake,2.0,beast,4,12,60,swim,False,19.0,14.0,12.0,1.0,10.0,3.0
+giant-crab,0.125,beast,2,15,13,swim,False,13.0,15.0,11.0,1.0,9.0,3.0
+giant-crocodile,5.0,beast,4,14,85,swim,False,21.0,9.0,17.0,2.0,10.0,7.0
+giant-eagle,1.0,beast,3,13,26,fly,False,16.0,17.0,13.0,8.0,14.0,10.0
+giant-elk,2.0,beast,4,14,42,None,False,19.0,16.0,14.0,7.0,14.0,10.0
+giant-fire-beetle,0.0,beast,1,13,4,None,False,8.0,10.0,12.0,1.0,7.0,3.0
+giant-four-armed-gargoyle,10.0,elemental,3,17,147,fly,False,,,,,,
+giant-frog,0.25,beast,2,11,18,swim,False,12.0,13.0,11.0,2.0,10.0,3.0
+giant-goat,0.5,beast,3,11,19,None,False,17.0,11.0,12.0,3.0,12.0,6.0
+giant-hyena,1.0,beast,3,12,45,None,False,16.0,14.0,14.0,2.0,12.0,7.0
+giant-lizard,0.25,beast,3,12,19,None,False,15.0,12.0,13.0,2.0,10.0,5.0
+giant-octopus,1.0,beast,3,11,52,swim,False,17.0,13.0,13.0,4.0,10.0,4.0
+giant-owl,0.25,beast,3,12,19,fly,False,13.0,15.0,12.0,8.0,13.0,10.0
+giant-poisonous-snake,0.25,beast,2,14,11,swim,False,10.0,18.0,13.0,2.0,10.0,3.0
+giant-rat,0.125,beast,1,12,7,None,False,7.0,15.0,11.0,2.0,10.0,4.0
+giant-scorpion,3.0,beast,3,15,52,None,False,15.0,13.0,15.0,1.0,9.0,3.0
+giant-sea-horse,0.5,beast,3,13,16,swim,False,12.0,15.0,11.0,2.0,12.0,5.0
+giant-shark,5.0,beast,4,13,126,swim,False,23.0,11.0,21.0,1.0,10.0,5.0
+giant-spider,1.0,beast,3,14,26,None,False,14.0,16.0,12.0,2.0,11.0,4.0
+giant-strider,1.0,monstrosity,3,14,22,None,False,18.0,13.0,14.0,4.0,12.0,6.0
+giant-toad,1.0,beast,3,11,39,swim,False,15.0,13.0,13.0,2.0,10.0,3.0
+giant-two-headed-goat,0.5,beast,3,11,19,None,False,17.0,11.0,12.0,3.0,12.0,6.0
+giant-vulture,1.0,beast,3,10,22,fly,False,15.0,10.0,15.0,6.0,12.0,7.0
+giant-wasp,0.5,beast,2,12,13,fly,False,10.0,14.0,10.0,1.0,10.0,3.0
+giant-weasel,0.125,beast,2,13,9,None,False,11.0,16.0,10.0,4.0,12.0,5.0
+giant-wolf-spider,0.25,beast,2,13,11,None,False,12.0,16.0,13.0,3.0,12.0,4.0
+gibbering-mouther,2.0,aberration,2,9,67,swim,False,10.0,8.0,16.0,3.0,10.0,6.0
+giff,3.0,humanoid,2,16,60,None,False,18.0,14.0,17.0,11.0,12.0,12.0
+girallon,4.0,monstrosity,3,13,59,None,False,18.0,16.0,16.0,5.0,12.0,7.0
+githyanki-gish,10.0,humanoid (gith),2,17,123,None,False,17.0,15.0,14.0,16.0,15.0,16.0
+githyanki-kith--rak,12.0,humanoid (gith),2,18,180,None,False,,,,,,
+githyanki-knight,8.0,humanoid (gith),2,18,91,None,False,16.0,14.0,15.0,14.0,14.0,15.0
+githyanki-supreme-commander,14.0,humanoid (gith),2,18,187,None,True,19.0,17.0,18.0,16.0,16.0,18.0
+githyanki-warrior,3.0,humanoid (gith),2,17,49,None,False,15.0,14.0,12.0,13.0,13.0,10.0
+githzerai-anarch,16.0,humanoid (gith),2,20,144,fly,True,16.0,21.0,18.0,18.0,20.0,14.0
+githzerai-enlightned,10.0,humanoid (gith),2,18,112,None,False,,,,,,
+githzerai-monk,2.0,humanoid (gith),2,14,38,None,False,12.0,15.0,12.0,13.0,14.0,10.0
+githzerai-zerth,6.0,humanoid (gith),2,17,84,None,False,13.0,18.0,15.0,16.0,17.0,12.0
+glabrezu,9.0,fiend (demon),3,17,157,None,False,20.0,15.0,21.0,19.0,17.0,16.0
+gladiator,5.0,humanoid (any race),2,16,112,None,False,18.0,15.0,16.0,10.0,12.0,15.0
+gloom-weaver,9.0,humanoid (elf),2,14,104,None,False,,,,,,
+gnoll,0.5,humanoid (gnoll),2,15,22,None,False,14.0,12.0,11.0,6.0,10.0,7.0
+gnoll-fang-of-yeenoghu,4.0,fiend (gnoll),2,14,65,None,False,17.0,15.0,15.0,10.0,11.0,13.0
+gnoll-flesh-gnawer,1.0,humanoid (gnoll),2,14,22,None,False,12.0,14.0,12.0,8.0,10.0,8.0
+gnoll-hunter,0.5,humanoid (gnoll),2,13,22,None,False,14.0,14.0,12.0,8.0,12.0,8.0
+gnoll-pack-lord,2.0,humanoid (gnoll),2,15,49,None,False,16.0,14.0,13.0,8.0,11.0,9.0
+gnoll-witherling,0.25,undead,2,12,11,None,False,14.0,8.0,12.0,5.0,5.0,5.0
+goat,0.0,beast,2,10,4,None,False,12.0,10.0,11.0,2.0,10.0,5.0
+goblin,0.25,humanoid (goblinoid),1,15,7,None,False,8.0,14.0,10.0,10.0,8.0,8.0
+goblin-boss,1.0,humanoid (goblinoid),1,17,21,None,False,10.0,14.0,10.0,10.0,8.0,10.0
+gold-dragon-wyrmling,3.0,dragon,2,17,60,"fly, swim",False,19.0,14.0,17.0,14.0,11.0,16.0
+gorgon,5.0,monstrosity,3,19,114,None,False,20.0,11.0,18.0,2.0,12.0,7.0
+goristro,17.0,fiend (demon),4,19,310,None,False,25.0,11.0,25.0,6.0,13.0,14.0
+gray-ooze,0.5,ooze,2,8,22,None,False,12.0,6.0,16.0,1.0,6.0,2.0
+gray-render,12.0,monstrosity,3,19,189,None,False,19.0,13.0,20.0,3.0,6.0,8.0
+gray-slaad,9.0,aberration (shapechanger),2,18,127,None,False,17.0,17.0,16.0,13.0,8.0,14.0
+graz-zt,24.0,"fiend (demon, shapechanger)",3,20,346,None,True,22.0,15.0,21.0,23.0,21.0,26.0
+green-abishai,15.0,fiend (devil),2,18,187,fly,False,12.0,17.0,16.0,17.0,12.0,19.0
+green-dragon-wyrmling,2.0,dragon,2,17,38,"fly, swim",False,15.0,12.0,13.0,14.0,11.0,13.0
+green-hag,3.0,fey,2,17,82,None,False,18.0,12.0,16.0,13.0,14.0,14.0
+green-slaad,8.0,aberration (shapechanger),3,16,127,None,False,18.0,15.0,16.0,11.0,8.0,12.0
+grell,3.0,aberration,2,12,55,fly,False,15.0,14.0,13.0,12.0,11.0,9.0
+grick,2.0,monstrosity,2,14,27,None,False,14.0,14.0,11.0,3.0,14.0,5.0
+grick-alpha,7.0,monstrosity,3,18,75,None,False,18.0,16.0,15.0,4.0,14.0,9.0
+griffon,2.0,monstrosity,3,12,59,fly,False,18.0,15.0,16.0,2.0,13.0,8.0
+grimlock,0.25,humanoid (grimlock),2,11,11,None,False,16.0,12.0,12.0,9.0,8.0,6.0
+grung,0.25,humanoid (grung),1,12,11,None,False,7.0,14.0,15.0,10.0,11.0,10.0
+grung-elite-warrior,2.0,humanoid (grung),1,13,49,None,False,7.0,16.0,15.0,10.0,11.0,12.0
+grung-wildling,1.0,humanoid (grung),1,13,27,None,False,7.0,16.0,15.0,10.0,15.0,11.0
+guard,0.125,humanoid (any race),2,16,11,None,False,13.0,12.0,12.0,10.0,11.0,10.0
+guard-drake,2.0,dragon,2,14,52,None,False,16.0,11.0,16.0,4.0,10.0,7.0
+guardian-naga,10.0,monstrosity,3,18,127,None,False,19.0,18.0,16.0,16.0,19.0,18.0
+gynosphinx,11.0,monstrosity,3,17,136,fly,True,18.0,15.0,16.0,18.0,18.0,18.0
+halaster-blackcloak,23.0,humanoid (human),2,14,246,None,True,10.0,18.0,18.0,24.0,18.0,18.0
+half-ogre,1.0,giant,3,12,30,None,False,17.0,10.0,14.0,7.0,9.0,10.0
+half-red-dragon-veteran,5.0,humanoid (human),2,18,65,None,False,16.0,13.0,14.0,10.0,11.0,10.0
+harpy,1.0,monstrosity,2,11,38,fly,False,12.0,13.0,12.0,7.0,10.0,13.0
+hawk,0.0,beast,0,13,1,fly,False,5.0,16.0,8.0,2.0,14.0,6.0
+hell-hound,3.0,fiend,2,15,45,None,False,17.0,12.0,14.0,6.0,13.0,6.0
+hellfire-engine,16.0,construct,4,18,216,None,False,20.0,16.0,24.0,2.0,10.0,1.0
+hellwasp,5.0,fiend,3,19,52,fly,False,18.0,15.0,12.0,10.0,10.0,7.0
+helmed-horror,4.0,construct,2,20,60,fly,False,18.0,13.0,16.0,10.0,10.0,10.0
+hezrou,8.0,fiend (demon),3,16,136,None,False,19.0,17.0,20.0,5.0,12.0,13.0
+hill-giant,5.0,giant,4,13,105,None,False,21.0,8.0,19.0,5.0,9.0,6.0
+hippogriff,1.0,monstrosity,3,11,19,fly,False,17.0,13.0,13.0,2.0,12.0,8.0
+hobgoblin,0.5,humanoid (goblinoid),2,18,11,None,False,13.0,12.0,12.0,10.0,10.0,9.0
+hobgoblin-captain,3.0,humanoid (goblinoid),2,17,39,None,False,15.0,14.0,14.0,12.0,10.0,13.0
+hobgoblin-devastator,4.0,humanoid (goblinoid),2,13,45,None,False,13.0,12.0,14.0,16.0,13.0,11.0
+hobgoblin-iron-shadow,2.0,humanoid (goblinoid),2,15,32,None,False,14.0,16.0,15.0,14.0,15.0,11.0
+hobgoblin-warlord,6.0,humanoid (goblinoid),2,20,97,None,False,16.0,14.0,16.0,14.0,11.0,15.0
+homunculus,0.0,construct,0,13,5,fly,False,4.0,15.0,11.0,10.0,10.0,7.0
+hook-horror,3.0,monstrosity,3,15,75,None,False,18.0,10.0,15.0,6.0,12.0,7.0
+horned-devil,11.0,fiend (devil),3,18,178,fly,False,22.0,17.0,21.0,12.0,16.0,17.0
+howler,8.0,fiend,3,16,90,None,False,17.0,16.0,15.0,5.0,20.0,6.0
+hulking-crab,5.0,beast,4,17,76,swim,False,,,,,,
+hunter-shark,2.0,beast,3,12,45,swim,False,18.0,13.0,15.0,1.0,10.0,4.0
+hutijin,21.0,fiend (devil),3,19,200,fly,True,27.0,15.0,25.0,23.0,19.0,25.0
+hydra,8.0,monstrosity,4,15,172,swim,False,20.0,12.0,20.0,2.0,10.0,7.0
+hydroloth,9.0,fiend (yugoloth),2,15,135,swim,False,12.0,21.0,16.0,19.0,10.0,14.0
+hyena,0.0,beast,2,11,5,None,False,11.0,13.0,12.0,2.0,12.0,5.0
+ice-devil,14.0,fiend (devil),3,18,180,None,False,21.0,14.0,18.0,18.0,15.0,18.0
+ice-mephit,0.5,elemental,1,11,21,fly,False,7.0,13.0,10.0,9.0,11.0,12.0
+ice-toad,1.0,monstrosity,2,12,32,swim,False,,,,,,
+illusionist,3.0,humanoid (any race),2,12,38,None,False,,,,,,
+imix,19.0,elemental,4,17,325,fly,True,19.0,24.0,22.0,15.0,16.0,23.0
+imp,1.0,"fiend (devil, shapechanger)",0,13,10,fly,False,6.0,17.0,13.0,11.0,12.0,14.0
+intellect-devourer,2.0,aberration,0,12,21,None,False,6.0,14.0,13.0,12.0,11.0,10.0
+invisible-stalker,6.0,elemental,2,14,104,fly,False,16.0,19.0,14.0,10.0,15.0,11.0
+iron-cobra,4.0,construct,2,13,45,None,False,,,,,,
+iron-consul,2.0,humanoid (human),2,16,45,None,False,17.0,11.0,16.0,12.0,15.0,16.0
+iron-golem,16.0,construct,3,20,210,None,False,24.0,9.0,20.0,3.0,11.0,1.0
+jackal,0.0,beast,1,12,3,None,False,8.0,15.0,11.0,3.0,12.0,6.0
+jackalwere,0.5,humanoid (shapechanger),2,12,18,None,False,11.0,15.0,11.0,13.0,11.0,10.0
+jaculi,0.5,beast,3,14,16,None,False,,,,,,
+jarlaxle-baenre,15.0,humanoid (elf),2,24,123,None,True,12.0,22.0,14.0,20.0,16.0,19.0
+juiblex,23.0,fiend (demon),4,18,350,None,True,24.0,10.0,23.0,20.0,20.0,16.0
+kamadan,4.0,monstrosity,3,13,67,None,False,,,,,,
+kenku,0.25,humanoid (kenku),2,13,13,None,False,10.0,16.0,10.0,11.0,10.0,10.0
+ki-rin,12.0,celestial,4,20,152,fly,True,21.0,16.0,16.0,19.0,20.0,20.0
+killer-whale,3.0,beast,4,12,90,swim,False,19.0,10.0,13.0,3.0,12.0,7.0
+knight,3.0,humanoid (any race),2,18,52,None,False,16.0,11.0,14.0,11.0,11.0,15.0
+kobold,0.125,humanoid (kobold),1,12,5,None,False,7.0,15.0,9.0,8.0,7.0,8.0
+kobold-dragonshield,1.0,humanoid (kobold),1,15,44,None,False,12.0,15.0,14.0,8.0,9.0,10.0
+kobold-inventor,0.25,humanoid (kobold),1,12,13,None,False,7.0,15.0,12.0,8.0,7.0,8.0
+kobold-scale-sorcerer,1.0,humanoid (kobold),1,15,27,None,False,7.0,15.0,14.0,10.0,9.0,14.0
+korred,7.0,fey,1,17,102,None,False,23.0,14.0,20.0,10.0,15.0,9.0
+kraken,23.0,monstrosity (titan),5,18,472,swim,True,30.0,11.0,25.0,22.0,18.0,20.0
+kraken-priest,5.0,humanoid (any race),2,10,75,swim,False,12.0,10.0,16.0,10.0,15.0,14.0
+kruthik-hive-lord,5.0,monstrosity,3,20,102,None,False,19.0,16.0,17.0,10.0,14.0,10.0
+kuo-toa,0.25,humanoid (kuo-toa),2,13,18,swim,False,13.0,10.0,11.0,11.0,10.0,8.0
+kuo-toa-archpriest,6.0,humanoid (kuo-toa),2,13,97,swim,False,16.0,14.0,16.0,13.0,16.0,14.0
+kuo-toa-whip,1.0,humanoid (kuo-toa),2,11,65,swim,False,14.0,10.0,14.0,12.0,14.0,11.0
+laeral-silverhand,17.0,humanoid (human),2,18,228,None,False,13.0,17.0,20.0,20.0,20.0,19.0
+lamia,4.0,monstrosity,3,13,97,None,False,16.0,13.0,15.0,14.0,15.0,16.0
+lemure,0.0,fiend (devil),2,7,13,None,False,10.0,5.0,11.0,1.0,11.0,3.0
+leucrotta,3.0,monstrosity,3,14,67,None,False,18.0,14.0,15.0,9.0,12.0,6.0
+leviathan,20.0,elemental,5,17,328,swim,True,30.0,24.0,30.0,2.0,18.0,17.0
+lich,21.0,undead,2,17,135,None,True,11.0,16.0,16.0,20.0,14.0,16.0
+lion,1.0,beast,3,12,26,None,False,17.0,15.0,13.0,3.0,12.0,8.0
+lizard,0.0,beast,0,10,2,None,False,2.0,11.0,10.0,1.0,8.0,3.0
+lizard-king-queen,4.0,humanoid (lizardfolk),2,15,78,swim,False,17.0,12.0,15.0,11.0,11.0,15.0
+lizardfolk,0.5,humanoid (lizardfolk),2,15,22,swim,False,15.0,10.0,13.0,7.0,12.0,7.0
+lizardfolk-shaman,2.0,humanoid (lizardfolk),2,13,27,swim,False,15.0,10.0,13.0,10.0,15.0,8.0
+mage,6.0,humanoid (any race),2,12,40,None,False,9.0,14.0,11.0,17.0,12.0,11.0
+magma-mephit,0.5,elemental,1,11,22,fly,False,8.0,12.0,12.0,7.0,10.0,10.0
+magmin,0.5,elemental,1,14,9,None,False,7.0,15.0,12.0,8.0,11.0,10.0
+male-steeder,0.25,monstrosity,2,12,13,None,False,15.0,12.0,14.0,2.0,10.0,3.0
+mammoth,6.0,beast,4,13,126,None,False,24.0,9.0,21.0,3.0,11.0,6.0
+manes,0.125,fiend (demon),1,9,9,None,False,10.0,9.0,13.0,3.0,8.0,4.0
+manshoon,13.0,humanoid (human),2,19,126,None,False,10.0,14.0,12.0,23.0,15.0,16.0
+manticore,3.0,monstrosity,3,14,68,fly,False,17.0,16.0,17.0,7.0,12.0,8.0
+mantrap,1.0,plant,3,12,45,None,False,,,,,,
+marid,11.0,elemental,3,17,229,"fly, swim",False,22.0,12.0,26.0,18.0,17.0,18.0
+marilith,16.0,fiend (demon),3,18,189,None,False,18.0,20.0,20.0,18.0,16.0,20.0
+martial-arts-adept,3.0,humanoid (any race),2,16,60,None,False,11.0,17.0,13.0,11.0,16.0,10.0
+marut,25.0,construct (inevitable),3,22,432,fly,False,28.0,12.0,26.0,19.0,15.0,18.0
+master-of-souls,4.0,humanoid (human),2,12,45,None,False,10.0,14.0,17.0,19.0,14.0,13.0
+master-thief,5.0,humanoid (any race),2,16,84,None,False,11.0,18.0,14.0,11.0,11.0,12.0
+mastiff,0.125,beast,2,12,5,None,False,13.0,14.0,12.0,3.0,12.0,7.0
+maurezhi,7.0,fiend (demon),2,15,88,None,False,14.0,17.0,12.0,11.0,12.0,15.0
+maw-demon,1.0,fiend (demon),2,13,33,None,False,14.0,8.0,13.0,5.0,8.0,5.0
+meazel,1.0,humanoid (meazel),2,13,35,None,False,8.0,17.0,9.0,14.0,13.0,10.0
+medusa,6.0,monstrosity,2,15,127,None,False,10.0,15.0,16.0,12.0,13.0,15.0
+meenlock,2.0,fey,1,15,31,None,False,7.0,15.0,12.0,11.0,10.0,8.0
+merfolk,0.125,humanoid (merfolk),2,11,11,swim,False,10.0,13.0,12.0,11.0,11.0,12.0
+merregon,4.0,fiend (devil),2,16,45,None,False,18.0,14.0,17.0,6.0,12.0,8.0
+merrenoloth,3.0,fiend (yugoloth),2,13,40,swim,False,8.0,17.0,10.0,17.0,14.0,11.0
+merrow,2.0,monstrosity,3,13,45,swim,False,18.0,10.0,15.0,8.0,10.0,9.0
+mezzoloth,5.0,fiend (yugoloth),2,18,75,None,False,18.0,11.0,16.0,7.0,10.0,11.0
+mimic,2.0,monstrosity (shapechanger),2,12,58,None,False,17.0,12.0,15.0,5.0,13.0,8.0
+mind-flayer,7.0,aberration,2,15,71,None,False,11.0,12.0,12.0,19.0,17.0,17.0
+mindwitness,5.0,aberration,3,15,75,fly,False,10.0,14.0,14.0,15.0,15.0,10.0
+minotaur,3.0,monstrosity,3,14,76,None,False,18.0,11.0,16.0,6.0,16.0,9.0
+minotaur-skeleton,2.0,undead,3,12,67,None,False,18.0,11.0,15.0,6.0,8.0,5.0
+moloch,21.0,fiend (devil),3,19,253,None,True,26.0,19.0,22.0,21.0,18.0,23.0
+molydeus,21.0,fiend (demon),4,19,216,None,True,28.0,22.0,25.0,21.0,24.0,24.0
+monodrone,0.125,construct,2,15,5,fly,False,10.0,13.0,12.0,4.0,10.0,5.0
+morkoth,11.0,aberration,2,17,130,swim,False,14.0,14.0,14.0,20.0,15.0,13.0
+mouth-of-grolantor,6.0,giant (hill giant),4,14,105,None,False,21.0,10.0,18.0,5.0,7.0,5.0
+mud-mephit,0.25,elemental,1,11,27,"fly, swim",False,8.0,12.0,12.0,9.0,11.0,7.0
+mule,0.125,beast,2,10,11,None,False,14.0,10.0,13.0,2.0,10.0,5.0
+mummified-warrior,0.25,undead,2,8,19,None,False,13.0,6.0,14.0,8.0,6.0,8.0
+mummy,3.0,undead,2,11,58,None,False,16.0,8.0,15.0,6.0,10.0,12.0
+mummy-lord,15.0,undead,2,17,97,None,True,18.0,10.0,17.0,11.0,18.0,16.0
+myconid-adult,0.5,plant,2,12,22,None,False,10.0,10.0,12.0,10.0,13.0,7.0
+myconid-sovereign,2.0,plant,3,13,60,None,False,12.0,10.0,14.0,13.0,15.0,10.0
+myconid-sprout,0.0,plant,1,10,7,None,False,8.0,10.0,10.0,8.0,11.0,5.0
+nabassu,15.0,fiend (demon),2,18,190,fly,False,22.0,14.0,21.0,14.0,15.0,17.0
+nagpa,17.0,humanoid (nagpa),2,19,187,None,False,9.0,15.0,12.0,23.0,18.0,21.0
+nalfeshnee,13.0,fiend (demon),3,18,184,fly,False,21.0,10.0,22.0,19.0,12.0,15.0
+narzugon,13.0,fiend (devil),2,20,112,None,False,20.0,10.0,17.0,16.0,14.0,19.0
+necromancer,9.0,humanoid (any race),2,12,66,None,False,,,,,,
+necromite-of-myrkul,0.5,humanoid (human),2,11,13,None,False,10.0,13.0,15.0,16.0,11.0,10.0
+needle-blight,0.25,plant,2,12,11,None,False,12.0,12.0,13.0,4.0,8.0,3.0
+neogi,3.0,aberration,1,15,33,None,False,6.0,16.0,14.0,13.0,12.0,15.0
+neogi-hatchling,0.125,aberration,0,11,7,None,False,3.0,13.0,10.0,6.0,10.0,9.0
+neogi-master,4.0,aberration,2,15,71,None,False,6.0,16.0,14.0,16.0,12.0,18.0
+neothelid,13.0,aberration,5,16,325,None,False,27.0,7.0,21.0,3.0,16.0,12.0
+night-blade,0.25,humanoid (human),2,12,11,None,False,11.0,15.0,12.0,10.0,11.0,14.0
+night-hag,5.0,fiend,2,17,112,None,False,18.0,15.0,16.0,16.0,14.0,16.0
+nightmare,3.0,fiend,3,13,68,fly,False,18.0,15.0,16.0,10.0,13.0,15.0
+nightwalker,20.0,undead,4,14,297,fly,False,22.0,19.0,24.0,6.0,9.0,8.0
+nilbog,1.0,humanoid (goblinoid),1,13,7,None,False,8.0,14.0,10.0,10.0,8.0,15.0
+noble,0.125,humanoid (any race),2,15,9,None,False,11.0,12.0,11.0,12.0,14.0,16.0
+nothic,2.0,aberration,2,15,45,None,False,14.0,16.0,16.0,13.0,10.0,8.0
+nupperibo,0.5,fiend (devil),2,13,11,None,False,16.0,11.0,13.0,3.0,8.0,1.0
+nycaloth,9.0,fiend (yugoloth),3,18,123,fly,False,20.0,11.0,19.0,12.0,10.0,15.0
+oblex-spawn,0.25,ooze,0,13,18,None,False,8.0,16.0,15.0,14.0,11.0,10.0
+ochre-jelly,2.0,ooze,3,8,45,None,False,15.0,6.0,14.0,2.0,6.0,1.0
+octopus,0.0,beast,1,12,3,swim,False,4.0,15.0,11.0,3.0,10.0,4.0
+ogre,2.0,giant,3,11,59,None,False,19.0,8.0,16.0,5.0,7.0,7.0
+ogre-battering-ram,4.0,giant,3,14,59,None,False,19.0,8.0,16.0,5.0,7.0,7.0
+ogre-bolt-launcher,2.0,giant,3,13,59,None,False,19.0,12.0,16.0,5.0,7.0,7.0
+ogre-chain-brute,3.0,giant,3,11,59,None,False,19.0,8.0,16.0,5.0,7.0,7.0
+ogre-howdah,2.0,giant,3,13,59,None,False,19.0,8.0,16.0,5.0,7.0,7.0
+ogre-zombie,2.0,undead,3,8,85,None,False,19.0,6.0,18.0,3.0,6.0,5.0
+ogremoch,20.0,elemental,5,20,526,None,True,26.0,11.0,28.0,11.0,15.0,22.0
+oinoloth,12.0,fiend (yugoloth),2,17,126,None,False,19.0,17.0,18.0,17.0,16.0,19.0
+olhydra,18.0,elemental,4,18,324,swim,True,21.0,22.0,24.0,17.0,18.0,23.0
+oni,7.0,giant,3,16,110,fly,False,19.0,11.0,16.0,14.0,12.0,15.0
+orc,0.5,humanoid (orc),2,13,15,None,False,16.0,12.0,16.0,7.0,11.0,10.0
+orc-blade-of-ilneval,4.0,humanoid (orc),2,18,60,None,False,17.0,11.0,17.0,10.0,12.0,14.0
+orc-claw-of-luthic,2.0,humanoid (orc),2,14,45,None,False,14.0,15.0,16.0,10.0,15.0,11.0
+orc-eye-of-gruumsh,2.0,humanoid (orc),2,16,45,None,False,16.0,12.0,16.0,9.0,13.0,12.0
+orc-hand-of-yurtrus,2.0,humanoid (orc),2,12,30,None,False,12.0,11.0,16.0,11.0,14.0,9.0
+orc-red-fang-of-shargaas,3.0,humanoid (orc),2,15,52,None,False,11.0,16.0,15.0,9.0,11.0,9.0
+orc-war-chief,4.0,humanoid (orc),2,16,93,None,False,18.0,12.0,18.0,11.0,11.0,16.0
+orcus,26.0,fiend (demon),4,17,405,fly,True,27.0,14.0,25.0,20.0,20.0,25.0
+orog,2.0,humanoid (orc),2,18,42,None,False,18.0,12.0,18.0,12.0,11.0,12.0
+orthon,10.0,fiend (devil),3,17,105,None,False,22.0,16.0,21.0,15.0,15.0,16.0
+otyugh,5.0,aberration,3,14,114,None,False,16.0,11.0,19.0,6.0,13.0,6.0
+owl,0.0,beast,0,11,1,fly,False,3.0,13.0,8.0,2.0,12.0,7.0
+owlbear,3.0,monstrosity,3,13,59,None,False,20.0,12.0,17.0,3.0,12.0,7.0
+panther,0.25,beast,2,12,13,None,False,14.0,15.0,10.0,3.0,14.0,7.0
+pegasus,2.0,celestial,3,12,59,fly,False,18.0,15.0,16.0,10.0,15.0,13.0
+pentadrone,2.0,construct,3,16,32,None,False,15.0,14.0,12.0,10.0,10.0,13.0
+peryton,2.0,monstrosity,2,13,33,fly,False,16.0,12.0,13.0,9.0,12.0,10.0
+phase-spider,3.0,monstrosity,3,13,32,None,False,15.0,15.0,12.0,6.0,10.0,6.0
+phoenix,16.0,elemental,5,18,175,fly,True,19.0,26.0,25.0,2.0,21.0,18.0
+piercer,0.5,monstrosity,2,15,22,None,False,10.0,13.0,16.0,1.0,7.0,3.0
+pit-fiend,20.0,fiend (devil),3,19,300,fly,False,26.0,14.0,24.0,22.0,18.0,24.0
+pixie,0.25,fey,0,15,1,fly,False,2.0,20.0,8.0,10.0,14.0,15.0
+planetar,16.0,celestial,3,19,200,fly,False,24.0,20.0,24.0,19.0,22.0,25.0
+plesiosaurus,2.0,beast,3,13,68,swim,False,18.0,15.0,16.0,2.0,12.0,5.0
+poisonous-snake,0.125,beast,0,13,2,swim,False,2.0,16.0,11.0,1.0,10.0,3.0
+polar-bear,2.0,beast,3,12,42,swim,False,20.0,10.0,16.0,2.0,13.0,7.0
+pony,0.125,beast,2,10,11,None,False,15.0,10.0,13.0,2.0,11.0,7.0
+priest,2.0,humanoid (any race),2,13,27,None,False,10.0,10.0,12.0,13.0,16.0,13.0
+pseudodragon,0.25,dragon,0,13,7,fly,False,6.0,15.0,13.0,10.0,12.0,10.0
+pterafolk,1.0,monstrosity,3,12,26,fly,False,,,,,,
+pteranodon,0.25,beast,2,13,13,fly,False,12.0,15.0,10.0,2.0,9.0,5.0
+purple-worm,15.0,monstrosity,5,18,247,None,False,28.0,7.0,22.0,1.0,8.0,4.0
+purple-wormling,2.0,monstrosity,3,12,42,None,False,,,,,,
+quadrone,1.0,construct,2,16,22,fly,False,12.0,14.0,12.0,10.0,10.0,11.0
+quaggoth,2.0,humanoid (quaggoth),2,13,45,None,False,17.0,12.0,16.0,6.0,12.0,7.0
+quaggoth-spore-servant,1.0,plant,2,13,45,None,False,17.0,12.0,16.0,2.0,6.0,1.0
+quasit,1.0,"fiend (demon, shapechanger)",0,13,7,None,False,5.0,17.0,10.0,7.0,10.0,10.0
+quetzalcoatlus,2.0,beast,4,13,30,fly,False,15.0,13.0,13.0,2.0,10.0,5.0
+quickling,1.0,fey,0,16,10,None,False,4.0,23.0,13.0,10.0,12.0,7.0
+quipper,0.0,beast,0,13,1,swim,False,2.0,16.0,9.0,1.0,7.0,2.0
+rakshasa,13.0,fiend,2,16,110,None,False,14.0,17.0,18.0,13.0,16.0,20.0
+rat,0.0,beast,0,10,1,None,False,2.0,11.0,9.0,2.0,10.0,4.0
+raven,0.0,beast,0,12,1,fly,False,2.0,14.0,8.0,2.0,12.0,6.0
+reaper-of-bhaal,2.0,humanoid (human),2,15,27,None,False,11.0,20.0,13.0,15.0,12.0,16.0
+red-abishai,19.0,fiend (devil),2,22,255,fly,False,23.0,16.0,19.0,14.0,15.0,19.0
+red-dragon-wyrmling,4.0,dragon,2,17,75,fly,False,19.0,10.0,17.0,12.0,11.0,15.0
+red-slaad,5.0,aberration,3,14,93,None,False,16.0,12.0,16.0,6.0,6.0,7.0
+redcap,3.0,fey,1,13,45,None,False,18.0,13.0,18.0,10.0,12.0,9.0
+reef-manta-ray,0.5,beast,3,12,16,swim,False,13.0,12.0,12.0,1.0,12.0,4.0
+reef-shark,0.5,beast,2,12,22,swim,False,14.0,13.0,13.0,1.0,10.0,4.0
+remorhaz,11.0,monstrosity,4,17,195,None,False,24.0,13.0,21.0,4.0,10.0,5.0
+retriever,14.0,construct,3,19,210,None,False,22.0,16.0,20.0,3.0,11.0,4.0
+revenant,5.0,undead,2,13,136,None,False,18.0,14.0,18.0,13.0,16.0,18.0
+rhinoceros,2.0,beast,3,11,45,None,False,21.0,8.0,15.0,2.0,12.0,6.0
+riding-horse,0.25,beast,3,10,13,None,False,16.0,10.0,12.0,2.0,11.0,7.0
+roc,11.0,monstrosity,5,15,248,fly,False,28.0,10.0,20.0,3.0,10.0,9.0
+roper,5.0,monstrosity,3,20,93,None,False,18.0,8.0,17.0,7.0,16.0,6.0
+rot-troll,9.0,giant,3,16,138,None,False,18.0,13.0,22.0,5.0,8.0,4.0
+rug-of-smothering,2.0,construct,3,12,33,None,False,17.0,14.0,10.0,1.0,3.0,1.0
+rust-monster,0.5,monstrosity,2,14,27,None,False,13.0,12.0,13.0,2.0,13.0,6.0
+rutterkin,2.0,fiend (demon),2,12,37,None,False,14.0,15.0,17.0,5.0,12.0,6.0
+saber-toothed-tiger,2.0,beast,3,12,52,None,False,18.0,14.0,15.0,3.0,12.0,8.0
+sahuagin,0.5,humanoid (sahuagin),2,12,22,swim,False,13.0,11.0,12.0,12.0,13.0,9.0
+sahuagin-baron,5.0,humanoid (sahuagin),3,16,76,swim,False,19.0,15.0,16.0,14.0,13.0,17.0
+sahuagin-priestess,2.0,humanoid (sahuagin),2,12,33,swim,False,13.0,11.0,12.0,12.0,14.0,13.0
+salamander,5.0,elemental,3,15,90,None,False,18.0,14.0,15.0,11.0,10.0,12.0
+satyr,0.5,fey,2,14,31,None,False,12.0,16.0,11.0,12.0,10.0,14.0
+scarecrow,1.0,construct,2,11,36,None,False,11.0,13.0,11.0,10.0,10.0,13.0
+scorpion,0.0,beast,0,11,1,None,False,2.0,11.0,8.0,1.0,8.0,2.0
+scout,0.5,humanoid (any race),2,13,16,None,False,11.0,14.0,12.0,11.0,13.0,11.0
+sea-hag,2.0,fey,2,14,52,swim,False,16.0,13.0,16.0,12.0,12.0,13.0
+sea-horse,0.0,beast,0,11,1,swim,False,1.0,12.0,8.0,1.0,10.0,2.0
+sea-spawn,1.0,humanoid,2,11,32,swim,False,15.0,8.0,15.0,6.0,10.0,8.0
+shadow,0.5,undead,2,12,16,None,False,6.0,14.0,13.0,6.0,10.0,8.0
+shadow-dancer,7.0,humanoid (elf),2,15,71,None,False,,,,,,
+shadow-demon,4.0,fiend (demon),2,13,66,fly,False,1.0,17.0,12.0,14.0,13.0,14.0
+shadow-mastiff,2.0,monstrosity,2,12,33,None,False,16.0,14.0,13.0,5.0,12.0,5.0
+shambling-mound,5.0,plant,3,15,136,swim,False,18.0,8.0,16.0,5.0,10.0,5.0
+shield-guardian,7.0,construct,3,17,142,None,False,18.0,8.0,18.0,7.0,10.0,3.0
+shoosuva,8.0,fiend (demon),3,14,110,None,False,18.0,13.0,17.0,7.0,14.0,9.0
+shrieker,0.0,plant,2,5,13,None,False,1.0,1.0,10.0,1.0,3.0,1.0
+sibriex,18.0,fiend (demon),4,19,150,fly,True,10.0,3.0,23.0,25.0,24.0,25.0
+silver-dragon-wyrmling,2.0,dragon,2,17,45,fly,False,19.0,10.0,17.0,12.0,11.0,15.0
+skeleton,0.25,undead,2,13,13,None,False,10.0,14.0,15.0,6.0,8.0,5.0
+skulk,0.5,humanoid,2,14,18,None,False,6.0,19.0,10.0,10.0,7.0,1.0
+skull-lasher-of-myrkul,1.0,humanoid (human),2,12,32,None,False,10.0,14.0,15.0,16.0,13.0,10.0
+skull-lord,15.0,undead,2,18,105,None,True,14.0,16.0,17.0,16.0,15.0,21.0
+slaad-tadpole,0.125,aberration,0,12,10,None,False,7.0,15.0,10.0,3.0,5.0,3.0
+slithering-tracker,3.0,ooze,2,14,32,swim,False,16.0,19.0,15.0,10.0,14.0,11.0
+smoke-mephit,0.25,elemental,1,12,22,fly,False,6.0,14.0,12.0,10.0,10.0,11.0
+solar,21.0,celestial,3,21,243,fly,True,26.0,22.0,26.0,25.0,25.0,30.0
+soul-monger,11.0,humanoid (elf),2,15,123,None,False,,,,,,
+spawn-of-kyuss,5.0,undead,2,10,76,None,False,16.0,11.0,18.0,5.0,7.0,3.0
+spectator,3.0,aberration,2,14,39,fly,False,8.0,14.0,14.0,13.0,14.0,11.0
+specter,1.0,undead,2,12,22,fly,False,1.0,14.0,11.0,10.0,10.0,11.0
+spider,0.0,beast,0,12,1,None,False,2.0,14.0,8.0,1.0,10.0,2.0
+spined-devil,2.0,fiend (devil),1,13,22,fly,False,10.0,15.0,12.0,11.0,14.0,8.0
+spirit-naga,8.0,monstrosity,3,15,75,None,False,18.0,17.0,14.0,16.0,15.0,16.0
+spirit-troll,11.0,giant,3,17,97,None,False,1.0,17.0,13.0,8.0,9.0,16.0
+spring-eladrin,10.0,fey (elf),2,19,127,None,False,14.0,16.0,16.0,18.0,11.0,18.0
+sprite,0.25,fey,0,15,2,fly,False,3.0,18.0,10.0,14.0,13.0,11.0
+spy,1.0,humanoid (any race),2,12,27,None,False,10.0,15.0,10.0,12.0,14.0,16.0
+star-spawn-grue,0.25,aberration,1,11,17,None,False,6.0,13.0,10.0,9.0,11.0,6.0
+star-spawn-hulk,10.0,aberration,3,16,136,None,False,20.0,8.0,21.0,7.0,12.0,9.0
+star-spawn-larva-mage,16.0,aberration,2,16,168,None,True,17.0,12.0,23.0,18.0,12.0,16.0
+star-spawn-mangler,5.0,aberration,2,14,71,None,False,8.0,18.0,12.0,11.0,12.0,7.0
+star-spawn-seer,13.0,aberration,2,17,153,None,False,14.0,12.0,18.0,22.0,19.0,16.0
+steam-mephit,0.25,elemental,1,10,21,fly,False,5.0,11.0,10.0,11.0,10.0,12.0
+steel-predator,16.0,construct,3,20,207,None,False,24.0,17.0,22.0,4.0,14.0,6.0
+stegosaurus,4.0,beast,4,13,76,None,False,,,,,,
+stirge,0.125,beast,0,14,2,fly,False,4.0,16.0,11.0,2.0,8.0,6.0
+stone-cursed,1.0,construct,2,17,19,None,False,16.0,5.0,14.0,5.0,8.0,7.0
+stone-giant,7.0,giant,4,17,126,None,False,23.0,15.0,20.0,10.0,12.0,9.0
+stone-giant-dreamwalker,10.0,giant (stone giant),4,18,161,None,False,23.0,14.0,21.0,10.0,8.0,12.0
+stone-golem,10.0,construct,3,17,178,None,False,22.0,9.0,20.0,3.0,11.0,1.0
+stone-juggernaut,12.0,construct,3,15,157,None,False,,,,,,
+storm-giant,13.0,giant,4,16,230,swim,False,29.0,14.0,20.0,16.0,18.0,18.0
+storm-giant-quintessent,16.0,giant (storm giant),4,12,230,"fly, swim",True,29.0,14.0,20.0,17.0,20.0,19.0
+strahd-von-zarovich,15.0,undead (shapechanger),2,16,144,None,True,18.0,18.0,18.0,20.0,15.0,18.0
+su-monster,1.0,monstrosity,2,12,27,None,False,,,,,,
+succubus,4.0,fiend (shapechanger),2,15,66,fly,False,8.0,17.0,13.0,15.0,12.0,20.0
+summer-eladrin,10.0,fey (elf),2,19,127,None,False,19.0,21.0,16.0,14.0,12.0,18.0
+swarm-of-bats,0.25,swarm of Tiny beasts,2,12,22,fly,False,5.0,15.0,10.0,2.0,12.0,4.0
+swarm-of-cranium-rats,5.0,swarm of Tiny beasts,2,12,36,None,False,9.0,14.0,10.0,15.0,11.0,14.0
+swarm-of-insects,0.5,swarm of Tiny beasts,2,12,22,None,False,3.0,13.0,10.0,1.0,7.0,1.0
+swarm-of-poisonous-snakes,2.0,swarm of Tiny beasts,2,14,36,swim,False,8.0,18.0,11.0,1.0,10.0,3.0
+swarm-of-quippers,1.0,swarm of Tiny beasts,2,13,28,swim,False,13.0,16.0,9.0,1.0,7.0,2.0
+swarm-of-rats,0.25,swarm of Tiny beasts,2,10,24,None,False,9.0,11.0,9.0,2.0,10.0,3.0
+swarm-of-ravens,0.25,swarm of Tiny beasts,2,12,24,fly,False,6.0,14.0,8.0,3.0,12.0,6.0
+swarm-of-rot-grubs,0.5,swarm of Tiny beasts,2,8,22,None,False,2.0,7.0,10.0,1.0,2.0,1.0
+swashbuckler,3.0,humanoid (any race),2,17,66,None,False,12.0,18.0,12.0,14.0,11.0,15.0
+sword-wraith-commander,8.0,undead,2,18,127,None,False,18.0,14.0,18.0,11.0,12.0,14.0
+sword-wraith-warrior,3.0,undead,2,16,45,None,False,18.0,12.0,17.0,6.0,9.0,10.0
+tabaxi-hunter,1.0,humanoid (tabaxi),2,14,40,None,False,10.0,17.0,11.0,13.0,14.0,15.0
+tabaxi-minstrel,0.25,humanoid (tabaxi),2,12,22,None,False,10.0,15.0,11.0,14.0,12.0,16.0
+tanarukk,5.0,"fiend (demon, orc)",2,14,95,None,False,18.0,13.0,20.0,9.0,9.0,9.0
+tarrasque,30.0,monstrosity (titan),5,25,676,None,True,30.0,11.0,30.0,3.0,11.0,11.0
+the-angry,13.0,monstrosity,2,18,255,None,False,,,,,,
+the-hungry,11.0,monstrosity,2,17,225,None,False,,,,,,
+the-lonely,9.0,monstrosity,2,16,112,None,False,,,,,,
+the-lost,7.0,monstrosity,2,15,78,None,False,,,,,,
+the-wretched,0.25,monstrosity,1,15,10,None,False,,,,,,
+thorny,1.0,plant,2,14,27,None,False,,,,,,
+thri-kreen,1.0,humanoid (thri-kreen),2,15,33,None,False,12.0,15.0,13.0,8.0,12.0,7.0
+thug,0.5,humanoid (any race),2,11,32,None,False,15.0,11.0,14.0,10.0,10.0,11.0
+tiamat,30.0,fiend,5,25,615,fly,True,30.0,10.0,30.0,26.0,26.0,28.0
+tiger,1.0,beast,3,12,37,None,False,17.0,15.0,14.0,3.0,12.0,8.0
+titivilus,16.0,fiend (devil),2,20,127,fly,True,19.0,22.0,17.0,24.0,22.0,26.0
+tlincalli,5.0,monstrosity,3,15,85,None,False,16.0,13.0,16.0,8.0,12.0,8.0
+tortle,0.25,humanoid (tortle),2,17,22,None,False,15.0,10.0,12.0,11.0,13.0,12.0
+tortle-druid,2.0,humanoid (tortle),2,17,33,None,False,14.0,10.0,12.0,11.0,15.0,12.0
+transmuter,5.0,humanoid (any race),2,12,40,None,False,,,,,,
+trapper,3.0,monstrosity,3,13,85,None,False,17.0,10.0,17.0,2.0,13.0,4.0
+treant,9.0,plant,4,16,138,None,False,23.0,8.0,21.0,12.0,16.0,12.0
+tri-flower-frond,0.5,plant,2,10,11,None,False,,,,,,
+tribal-warrior,0.125,humanoid (any race),2,12,11,None,False,13.0,11.0,12.0,8.0,11.0,8.0
+triceratops,5.0,beast,4,13,95,None,False,22.0,9.0,17.0,2.0,11.0,5.0
+tridrone,0.5,construct,2,15,16,None,False,12.0,13.0,12.0,9.0,10.0,9.0
+troglodyte,0.25,humanoid (troglodyte),2,11,13,None,False,14.0,10.0,14.0,6.0,10.0,6.0
+troll,5.0,giant,3,15,84,None,False,18.0,13.0,20.0,7.0,9.0,7.0
+twig-blight,0.125,plant,1,13,4,None,False,6.0,13.0,12.0,4.0,8.0,3.0
+tyrannosaurus-rex,8.0,beast,4,13,136,None,False,25.0,10.0,19.0,2.0,12.0,9.0
+ulitharid,9.0,aberration,3,15,127,None,False,15.0,12.0,15.0,21.0,19.0,21.0
+ultroloth,13.0,fiend (yugoloth),2,19,153,fly,False,16.0,16.0,18.0,18.0,15.0,19.0
+umber-hulk,5.0,monstrosity,3,18,93,None,False,20.0,13.0,16.0,9.0,10.0,10.0
+unicorn,5.0,celestial,3,12,67,None,True,18.0,14.0,15.0,11.0,17.0,16.0
+uthgardt-shaman,2.0,humanoid (human),2,13,38,None,False,14.0,12.0,13.0,10.0,15.0,12.0
+vajra-safahr,13.0,humanoid (human),2,14,126,None,False,10.0,14.0,12.0,20.0,11.0,16.0
+vampire,13.0,undead (shapechanger),2,16,144,None,True,18.0,18.0,18.0,17.0,15.0,18.0
+vampire-spawn,5.0,undead,2,15,82,None,False,16.0,16.0,16.0,11.0,10.0,12.0
+vampiric-mist,3.0,undead,2,13,30,fly,False,6.0,16.0,16.0,6.0,12.0,7.0
+vargouille,1.0,fiend,0,12,13,fly,False,6.0,14.0,14.0,4.0,7.0,2.0
+vegepygmy,0.25,plant,1,13,9,None,False,7.0,14.0,13.0,6.0,11.0,7.0
+vegepygmy-chief,2.0,plant,1,14,33,None,False,14.0,14.0,14.0,7.0,12.0,9.0
+velociraptor,0.25,beast,0,13,10,None,False,6.0,14.0,13.0,4.0,12.0,6.0
+venerable-shadow,2.0,undead,2,13,27,None,False,6.0,16.0,13.0,6.0,12.0,10.0
+venom-troll,7.0,giant,3,15,94,None,False,18.0,13.0,20.0,7.0,9.0,7.0
+veteran,3.0,humanoid (any race),2,17,58,None,False,16.0,13.0,14.0,10.0,11.0,10.0
+vine-blight,0.5,plant,2,12,26,None,False,15.0,8.0,14.0,5.0,10.0,3.0
+violet-fungus,0.25,plant,2,5,18,None,False,3.0,1.0,10.0,1.0,3.0,1.0
+vrock,6.0,fiend (demon),3,15,104,fly,False,17.0,15.0,18.0,8.0,13.0,8.0
+vulture,0.0,beast,2,10,5,fly,False,7.0,10.0,13.0,2.0,12.0,4.0
+war-priest,9.0,humanoid (any race),2,18,117,None,False,16.0,10.0,14.0,11.0,17.0,13.0
+warhorse,0.5,beast,3,11,19,None,False,18.0,12.0,13.0,2.0,12.0,7.0
+warhorse-skeleton,0.5,undead,3,13,22,None,False,18.0,12.0,15.0,2.0,8.0,5.0
+warlock-of-the-archfey,4.0,humanoid (any race),2,11,49,None,False,9.0,16.0,11.0,11.0,12.0,18.0
+warlock-of-the-fiend,7.0,humanoid (any race),2,12,78,None,False,10.0,16.0,15.0,12.0,12.0,18.0
+warlock-of-the-great-old-one,6.0,humanoid (any race),2,12,91,None,False,9.0,16.0,15.0,12.0,12.0,18.0
+warlord,12.0,humanoid (any race),2,18,229,None,True,20.0,16.0,18.0,12.0,12.0,18.0
+wastrilith,13.0,fiend (demon),3,18,157,swim,False,19.0,18.0,21.0,19.0,12.0,14.0
+water-elemental,5.0,elemental,3,14,114,swim,False,18.0,14.0,18.0,5.0,10.0,8.0
+water-elemental-myrmidon,7.0,elemental,2,18,127,swim,False,18.0,14.0,15.0,8.0,10.0,10.0
+water-weird,3.0,elemental,3,13,58,swim,False,17.0,16.0,13.0,11.0,10.0,10.0
+weasel,0.0,beast,0,13,1,None,False,3.0,16.0,8.0,2.0,12.0,3.0
+werebear,5.0,"humanoid (human, shapechanger)",2,10,135,None,False,19.0,10.0,17.0,11.0,12.0,12.0
+wereboar,4.0,"humanoid (human, shapechanger)",2,10,78,None,False,17.0,10.0,15.0,10.0,11.0,8.0
+wererat,2.0,"humanoid (human, shapechanger)",2,12,33,None,False,10.0,15.0,12.0,11.0,10.0,8.0
+weretiger,4.0,"humanoid (human, shapechanger)",2,12,120,None,False,17.0,15.0,16.0,10.0,13.0,11.0
+werewolf,3.0,"humanoid (human, shapechanger)",2,11,58,None,False,15.0,13.0,14.0,10.0,11.0,10.0
+white-abishai,6.0,fiend (devil),2,15,68,fly,False,16.0,11.0,18.0,11.0,12.0,13.0
+white-dragon-wyrmling,2.0,dragon,2,16,32,"fly, swim",False,14.0,10.0,14.0,5.0,10.0,11.0
+wight,3.0,undead,2,14,45,None,False,15.0,14.0,16.0,10.0,13.0,15.0
+wild-dog,0.125,beast,2,12,5,None,False,13.0,14.0,12.0,3.0,12.0,7.0
+wild-dog-alpha,1.0,beast,3,12,26,None,False,17.0,15.0,13.0,3.0,12.0,8.0
+will-o--wisp,2.0,undead,0,19,22,fly,False,1.0,28.0,10.0,13.0,14.0,11.0
+winged-kobold,0.25,humanoid (kobold),1,13,7,fly,False,7.0,16.0,9.0,8.0,7.0,8.0
+winter-eladrin,10.0,fey (elf),2,19,127,None,False,11.0,16.0,16.0,18.0,17.0,13.0
+winter-wolf,3.0,monstrosity,3,13,75,None,False,18.0,13.0,14.0,7.0,12.0,8.0
+wolf,0.25,beast,2,13,11,None,False,12.0,15.0,12.0,3.0,12.0,6.0
+wood-woad,5.0,plant,2,18,75,None,False,18.0,12.0,16.0,10.0,13.0,8.0
+worg,0.5,monstrosity,3,13,26,None,False,16.0,13.0,13.0,7.0,11.0,8.0
+wraith,5.0,undead,2,13,67,fly,False,6.0,16.0,16.0,12.0,14.0,15.0
+wyvern,6.0,dragon,3,13,110,fly,False,19.0,10.0,16.0,5.0,12.0,6.0
+xorn,5.0,elemental,2,19,73,None,False,17.0,10.0,22.0,11.0,10.0,11.0
+xvart,0.125,humanoid (xvart),1,13,7,None,False,8.0,14.0,10.0,8.0,7.0,7.0
+xvart-warlock-of-raxivort,1.0,humanoid (xvart),1,12,22,None,False,8.0,14.0,12.0,8.0,11.0,12.0
+yagnoloth,11.0,fiend (yugoloth),3,17,147,None,False,19.0,14.0,21.0,16.0,15.0,18.0
+yan-c-bin,18.0,elemental,4,22,283,fly,True,18.0,24.0,24.0,16.0,21.0,23.0
+yeenoghu,24.0,fiend (demon),4,20,333,None,True,29.0,16.0,23.0,15.0,24.0,15.0
+yellow-musk-creeper,2.0,plant,2,6,60,None,False,12.0,3.0,12.0,1.0,10.0,3.0
+yellow-musk-zombie,0.25,undead,2,9,33,None,False,13.0,9.0,12.0,1.0,6.0,3.0
+yeth-hound,4.0,fey,3,14,51,fly,False,18.0,17.0,16.0,5.0,12.0,7.0
+yeti,3.0,monstrosity,3,12,51,None,False,18.0,13.0,16.0,8.0,12.0,7.0
+yochlol,10.0,"fiend (demon, shapechanger)",2,15,136,None,False,15.0,14.0,18.0,13.0,15.0,15.0
+young-black-dragon,7.0,dragon,3,18,127,"fly, swim",False,19.0,14.0,17.0,12.0,11.0,15.0
+young-blue-dragon,9.0,dragon,3,18,152,fly,False,21.0,10.0,19.0,14.0,13.0,17.0
+young-brass-dragon,6.0,dragon,3,17,110,fly,False,19.0,10.0,17.0,12.0,11.0,15.0
+young-bronze-dragon,8.0,dragon,3,18,142,"fly, swim",False,21.0,10.0,19.0,14.0,13.0,17.0
+young-copper-dragon,7.0,dragon,3,17,119,fly,False,19.0,12.0,17.0,16.0,13.0,15.0
+young-gold-dragon,10.0,dragon,3,18,178,"fly, swim",False,23.0,14.0,21.0,16.0,13.0,20.0
+young-green-dragon,8.0,dragon,3,18,136,"fly, swim",False,19.0,12.0,17.0,16.0,13.0,15.0
+young-kruthik,0.125,monstrosity,1,16,9,None,False,13.0,16.0,13.0,4.0,10.0,6.0
+young-red-dragon,10.0,dragon,3,18,178,fly,False,23.0,10.0,21.0,14.0,11.0,19.0
+young-red-shadow-dragon,13.0,dragon,3,18,178,fly,False,23.0,10.0,21.0,14.0,11.0,19.0
+young-remorhaz,5.0,monstrosity,3,14,93,None,False,18.0,13.0,17.0,3.0,10.0,4.0
+young-silver-dragon,9.0,dragon,3,18,168,fly,False,23.0,10.0,21.0,14.0,11.0,19.0
+young-white-dragon,6.0,dragon,3,17,133,"fly, swim",False,18.0,10.0,18.0,6.0,11.0,12.0
+yuan-ti-abomination,7.0,"monstrosity (shapechanger, yuan-ti)",3,15,127,None,False,19.0,16.0,17.0,17.0,15.0,18.0
+yuan-ti-anathema,12.0,"monstrosity (shapechanger, yuan-ti)",4,16,189,swim,False,23.0,13.0,19.0,19.0,17.0,20.0
+yuan-ti-broodguard,2.0,humanoid (yuan-ti),2,14,45,None,False,15.0,14.0,14.0,6.0,11.0,4.0
+yuan-ti-malison,3.0,"monstrosity (shapechanger, yuan-ti)",2,12,66,None,False,16.0,14.0,13.0,14.0,12.0,16.0
+yuan-ti-mind-whisperer,4.0,"monstrosity (shapechanger, yuan-ti)",2,14,71,None,False,16.0,14.0,13.0,14.0,14.0,16.0
+yuan-ti-nightmare-speaker,4.0,"monstrosity (shapechanger, yuan-ti)",2,14,71,None,False,16.0,14.0,13.0,14.0,12.0,16.0
+yuan-ti-pit-master,5.0,"monstrosity (shapechanger, yuan-ti)",2,14,88,None,False,16.0,14.0,13.0,14.0,12.0,16.0
+yuan-ti-pureblood,1.0,humanoid (yuan-ti),2,11,40,None,False,11.0,12.0,11.0,13.0,12.0,14.0
+zaratan,22.0,elemental,5,21,307,swim,True,30.0,10.0,30.0,2.0,21.0,18.0
+zariel,26.0,fiend (devil),3,21,580,fly,True,27.0,24.0,28.0,26.0,27.0,30.0
+zombie,0.25,undead,2,8,22,None,False,13.0,6.0,16.0,3.0,6.0,5.0
+zuggtmoy,23.0,fiend (demon),3,18,304,None,True,22.0,15.0,18.0,20.0,19.0,24.0
