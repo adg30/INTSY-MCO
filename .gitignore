@@ -16,3 +16,6 @@ venv/
 
 # OS junk
 .DS_Store
+
+# referenced structure
+notebooks/reference/
