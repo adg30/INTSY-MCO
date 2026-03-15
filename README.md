@@ -2,7 +2,7 @@
 
 **By**: Aaron Go, John Alonzo, Sean Olores, and Sean Cardeno
 
-**Dataset**: Kaggle, [DnD 5e Monsters](https://www.kaggle.com/datasets/mrpantherson/dnd-5e-monsters/data) TODO: reformat properly
+**Dataset**: 5e.tools, [DnD 5e Bestiary](https://5e.tools/bestiary.html) TODO: reformat properly
 
 **Motivation**: In Dungeons & Dragons, _Challenge Rating_ is a mathematical estimation of a monster's combat efficiency. A model that learns to predict this value from raw stats allows Game Masters to instantly balance custom _homebrew_ content without manually calculating complex design formulas.
 
