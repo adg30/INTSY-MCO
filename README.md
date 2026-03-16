@@ -27,3 +27,5 @@ View the notebooks in the `notebooks/` directory. The notebooks are enumarated b
 #TODO: add explanations for each notebook
 
 ## Data
+
+## AI Use Declaration
