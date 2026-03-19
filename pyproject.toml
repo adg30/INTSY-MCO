@@ -6,6 +6,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 dependencies = [
     "ipykernel>=7.2.0",
+    "joblib>=1.5.3",
     "jupyterlab>=4.5.5",
     "matplotlib>=3.10.8",
     "numpy>=2.4.2",
@@ -14,4 +15,5 @@ dependencies = [
     "scikit-learn>=1.8.0",
     "seaborn>=0.13.2",
     "torch>=2.10.0",
+    "xgboost>=3.2.0",
 ]
