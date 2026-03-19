@@ -43,7 +43,7 @@ Run the notebooks in order. Each builds on the output of the previous one.
 | 04 | `04_new_feature_engineering.ipynb` | Ordinal encoding, one-hot encoding, binary flags, complexity scores | `engineered_bestiary.csv` |
 | 05 | `05_new_preprocessing.ipynb` | Log transform, Z-score standardization, Min-Max scaling, pruning | `preprocessed_bestiary.csv` |
 | 06 | `06_data_splitting.ipynb` | Stratified 80/20 and 70/15/15 train/val/test splits | `X_train.csv`, `X_test.csv`, etc. |
-| 07 | `07_classical_models.ipynb` | [model 1] and [model 2] training and evaluation | — |
+| 07 | `07_classical_models.ipynb` | Random Forest and XGBoost training and evaluation | — |
 | 08 | `08_neural_network.ipynb` | MLP training and evaluation | — |
 | 09 | `09_evaluation_and_conclusion.ipynb` | Model evaluation and conclusions | — |
 
