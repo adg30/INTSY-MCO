@@ -24,7 +24,7 @@ By the end of this project, our goal is to train and evaluate at least three sup
 
 1. Clone the repository
 2. Run `uv sync` to install all dependencies
-3. Open notebooks in VSCode or PyCharm directly, or launch a browser interface with:
+3. Open notebooks in VSCode or PyCharm directly (Run it as a kernel), or launch a browser interface with:
 ```bash
    uv run --with jupyter jupyter lab
 ```
